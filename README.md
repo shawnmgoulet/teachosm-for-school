@@ -6,7 +6,7 @@ This is the repository for TeachOSM for High School, a project under the [TeachO
 
 A number of collaborators within the TeachOSM community have been working with high school educators and students in the United States over the past four years leveraging the [OSM](https://www.openstreetmap.org/) software to familiarize students with web maps, geospatial data and map features and projects connected to course sections.  This kind of work has been [documented](http://teachosm.org/en/cases/cape-cod/) thus far.
 
-This project was selected as one of [Mozilla's Open Leadership Training] (https://mozilla.github.io/leadership-training/projects/#teachosm-for-high-school) Round 3 projects.  The Open Leadership Training is a 14 week online mentorship program on working open in the Mozilla Network.  The project is one of 39 selected from a pool of over 100 applications.
+This project was selected as one of [Mozilla's Open Leadership Training](https://mozilla.github.io/leadership-training/projects/#teachosm-for-high-school) Round 3 projects.  The Open Leadership Training is a 14 week online mentorship program on working open in the Mozilla Network.  The project is one of 39 selected from a pool of over 100 applications.
 
 ## Project Purpose/Summary
 
