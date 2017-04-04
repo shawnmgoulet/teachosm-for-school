@@ -2,8 +2,8 @@
 
 This TeachOSM for High School project under the [TeachOSM](http://teachosm.org) project umbrella provides educators with modular, scale-able [OpenStreetMap](http://teachosm.org) - related geography-based educational exercises developed to integrate with the [United States AP Human Geography curreiculum](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details).
 
-* ** _Everyone_ is invited to collaborate to produce this meaningful organization of secondary education-level materials. **
-* ** All materials and knowledge available within this project is shared widely and freely. **
+* **_Everyone_ is invited to collaborate to produce this meaningful organization of secondary education-level materials.**
+* **All materials and knowledge available within this project is shared widely and freely.**
 
 ## Background
 
