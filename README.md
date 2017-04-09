@@ -21,7 +21,7 @@ We welcome contributions and involvement from anyone interested and ask that you
 
 ### Modules
 
-1. Develop "Module 1 | Field Papers".
+1. Develop **"Module 1 | Field Papers"**
   * **Summary:** This module will guide teachers in _easily_ using [Field Papers](http://fieldpapers.org/) to create aerial photograph base map(s) of a teacher-identified property which the teacher will take students to map features in the field.
   * **Format:** Students work in groups to map a section of the property using aerial maps in the field
   * **Duration of module:** 1 class
@@ -32,7 +32,7 @@ We welcome contributions and involvement from anyone interested and ask that you
   * **Student Assignment:** Read [learnOSM | Introduction](http://learnosm.org/en/beginner/introduction/) with suggested questions formulated around the reading.
   * **Module To be completed by 4/14/17**
 
-2. Develop "Module 2 | Introduction to OpenStreetMap"
+2. Develop **"Module 2 | Introduction to OpenStreetMap"**
   * **Summary:** This module will organize introductory level resources with that provide the teacher with a _simple_ but comprehensive overview of the OSM project with content that covers:
     1. the history/stats/facts of OSM from beginning to present day
     2. the importance of OSM with connections to map applications from social good to industry and in between
@@ -49,7 +49,7 @@ We welcome contributions and involvement from anyone interested and ask that you
   * **Student Assignment:** One page paper describing an OSM news article and the reason the student chose it
   * **Module To be completed by 4/21/17**
 
-3. Develop "Module 3 | Getting Mapping Ready"
+3. Develop **"Module 3 | OSM Contribution Onboarding"**
   * **Summary:** Teachers will be guided to:
     1. showcase **OSM map features** using [OSM Wiki | Map Features](https://wiki.openstreetmap.org/wiki/Map_Features)
     2. describe and give examples of good mapping practice using [OSM Wiki | Good Practice](https://wiki.openstreetmap.org/wiki/Good_practice)
@@ -66,7 +66,7 @@ We welcome contributions and involvement from anyone interested and ask that you
     3. Make first entry into the student journal
   * **Module To be completed by 4/28/17**
 
-4. Develop "Module 5 | Mapping Population OSM Map Features"
+4. Develop "Module 4 | Mapping Population OSM Map Features"
   * **Summary:** Students will map population and migration-related map features anywhere in the world.  Specific map features and an example implementation approach will be described.
   **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
   * **Duration of module:** 1 class
@@ -78,7 +78,7 @@ We welcome contributions and involvement from anyone interested and ask that you
     2. Add a one paragraph summary of a news article covering a population-related application of OSM
   * **Module To be completed by 5/5/17**
 
-5. Develop "Module 6 | Mapping Cultural Patterns and Processes OSM Map Features"
+5. Develop "Module 5 | Mapping Cultural Patterns and Processes OSM Map Features"
 **_CONTENT COMING SOON!_**
 
 * Compile feedback from educators and those involved in TeachOSM on module content, then incorporate feedback into content. [_Coming soon_]
