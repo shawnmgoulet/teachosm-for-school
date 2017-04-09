@@ -1,6 +1,6 @@
 # TeachOSM for High School
 
-This TeachOSM for High School project under the [TeachOSM](http://teachosm.org) project umbrella provides educators with modular, scale-able [OpenStreetMap](https://www.openstreetmap.org/) (OSM) - related geography-based educational exercises developed to integrate with the [United States AP Human Geography curreiculum](https://apstudent.collegeboard.org/apcourse/ap-human-geography).
+This TeachOSM for High School project under the [TeachOSM](http://teachosm.org) project umbrella provides educators with modular, scale-able [OpenStreetMap](https://www.openstreetmap.org/) (OSM) - related geography-based educational modules developed to integrate with the [United States AP Human Geography curriculum](https://apstudent.collegeboard.org/apcourse/ap-human-geography).
 
 * **_Everyone_ is invited to collaborate to produce this meaningful organization of secondary education-level materials.**
 * **All materials and knowledge available within this project is shared widely and freely.**
@@ -19,69 +19,67 @@ We welcome contributions and involvement from anyone interested and ask that you
 
 * Collect, organize & add value where necessary to TeachOSM modules. [_Coming soon_]
 
+### Modules
+
 1. Develop "Module 1 | Field Papers".
-  * This module will guide teachers in _easily_ using [Field Papers](http://fieldpapers.org/) to create aerial photograph base map(s) of a teacher-identified property which the teacher will take students to map features in the field.
-  * Students work in groups to map a section of the property using aerial maps in the field
-  * Duration of module: 1 class
-  * Complete during 1st quarter of course
-  * Obvious AP Human Geography Links:
+  * **Summary:** This module will guide teachers in _easily_ using [Field Papers](http://fieldpapers.org/) to create aerial photograph base map(s) of a teacher-identified property which the teacher will take students to map features in the field.
+  * **Format:** Students work in groups to map a section of the property using aerial maps in the field
+  * **Duration of module:** 1 class
+  * **Suggested Implementation:** 1st quarter of course
+  * **Obvious AP Human Geography Link(s):**
       1. Interpret maps and analyze geospatial data
-      2. Geography: Its Nature and Perspectives (C, D, E)
-    https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details
-  * Student Assignment: Read [learnOSM | Introduction](http://learnosm.org/en/beginner/introduction/)
-    Teacher to develop questions around this reading
-    * **Module To be completed by 4/14/17**
+      2. [Geography: Its Nature and Perspectives | C, D, E](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+  * **Student Assignment:** Read [learnOSM | Introduction](http://learnosm.org/en/beginner/introduction/) with suggested questions formulated around the reading.
+  * **Module To be completed by 4/14/17**
 
 2. Develop "Module 2 | Introduction to OpenStreetMap"
-  * This module will organize introductory level resources with that provide the teacher with a _simple_ but comprehensive overview of the OSM project with content that covers:
-    * the history/stats/facts of OSM from beginning to present day
-    * the importance of OSM with connections to map applications from social good to industry and in between
+  * **Summary:** This module will organize introductory level resources with that provide the teacher with a _simple_ but comprehensive overview of the OSM project with content that covers:
+    1. the history/stats/facts of OSM from beginning to present day
+    2. the importance of OSM with connections to map applications from social good to industry and in between
       (e.g. HOTOSM, MissingMaps, Craigslist, Foursquare, Wikipedia, etc.)
-    * a connection to local map features found in the student's community
-    * a visualization of live edits using
+    3. a connection to local map features found in the student's community
+    4. a visualization of live edits using
       * https://osmlab.github.io/show-me-the-way/
       * http://live.openstreetmap.fr/
-    * Lecture-based presentation
-    * Duration of module: 1 class
-    * Complete during 2nd quarter of course
-    * Obvious AP Human Geography Link:
-      1. Geography: Its Nature and Perspectives (E)
-      https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details
-    * Student Assignment: One page paper describing an OSM news article and the reason the student chose it
-    * **Module To be completed by 4/21/17**
+  * **Format:** Lecture-based presentation
+  * **Duration of module:** 1 class
+  * **Suggested Implementation:** 2nd quarter of course
+  * **Obvious AP Human Geography Link(s):**
+    1. [Geography: Its Nature and Perspectives | E](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+  * **Student Assignment:** One page paper describing an OSM news article and the reason the student chose it
+  * **Module To be completed by 4/21/17**
 
 3. Develop "Module 3 | Getting Mapping Ready"
-  * Teachers will be guided to:
-    1. showcase **map features** using [OSM Wiki | Map Features](https://wiki.openstreetmap.org/wiki/Map_Features)
+  * **Summary:** Teachers will be guided to:
+    1. showcase **OSM map features** using [OSM Wiki | Map Features](https://wiki.openstreetmap.org/wiki/Map_Features)
     2. describe and give examples of good mapping practice using [OSM Wiki | Good Practice](https://wiki.openstreetmap.org/wiki/Good_practice)
     3. sign-up students with OSM accounts using [learnOSM | Getting Started](http://learnosm.org/en/beginner/start-osm/)
-  * Lecture-based presentation followed by student OSM account sign-ups
-  * Duration of module: 1 class
-  * Complete during 3rd quarter of course
-  * Obvious AP Human Geography Links:
-      1. Interpret maps and analyze geospatial data
-      2. Geography: Its Nature and Perspectives (C, D, E)
-      https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details
-  * Student Assignment:
+  * **Format:** Lecture-based presentation followed by student OSM account sign-ups
+  * **Duration of module:** 1 class
+  * **Suggested Implementation:** 3rd quarter of course
+  * **Obvious AP Human Geography Link(s):**
+    1. Interpret maps and analyze geospatial data
+    2. [Geography: Its Nature and Perspectives | C, D, E](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+  * **Student Assignment:**
     1. Create a student journal to use to describe with text and screen shots contributions, issues, questions, etc. when making contributions to the map
     2. Use the learnOSM | Getting Started page to contribute their first edit(s) to the map within the High School's municipality
     3. Make first entry into the student journal
-    * **Module To be completed by 4/28/17**
+  * **Module To be completed by 4/28/17**
 
-  4. Develop "Module 5 | Mapping Population OSM Map Features"
-    * Students will map population and migration-related map features anywhere in the world.
-    * Specific map features and an example implementation approach will be described.
-    * Duration of module: 1 class
-    * Obvious AP Human Geography Links:
-        1. II. Population (A, B, C)
-        https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details
-    * Student Assignment:
-      * Enter contributions in student journal
-      * Add a one paragraph summary of a news article covering a population-related application of OSM
-      * **Module To be completed by 5/5/17**
+4. Develop "Module 5 | Mapping Population OSM Map Features"
+  * **Summary:** Students will map population and migration-related map features anywhere in the world.  Specific map features and an example implementation approach will be described.
+  **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
+  * **Duration of module:** 1 class
+  * **Suggested Implementation:** 4th quarter of course
+  * **Obvious AP Human Geography Link(s):**
+    1. [II. Population | A, B, C](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+  * **Student Assignment:**
+    1. Enter contributions in student journal
+    2. Add a one paragraph summary of a news article covering a population-related application of OSM
+  * **Module To be completed by 5/5/17**
 
-    5. Develop "Module 6 | Mapping Cultural Patterns and Processes OSM Map Features"
-    _CONTENT COMING SOON!_
+5. Develop "Module 6 | Mapping Cultural Patterns and Processes OSM Map Features"
+**_CONTENT COMING SOON!_**
 
 * Compile feedback from educators and those involved in TeachOSM on module content, then incorporate feedback into content. [_Coming soon_]
 
