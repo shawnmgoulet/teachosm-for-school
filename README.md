@@ -66,7 +66,7 @@ We welcome contributions and involvement from anyone interested and ask that you
     3. Make first entry into the student journal
   * **Module To be completed by 4/28/17**
 
-4. Develop "Module 4 | Mapping Population OSM Map Features"
+4. **Develop "Module 4 | Mapping Population OSM Map Features"**
   * **Summary:** Students will map population and migration-related map features anywhere in the world.  Specific map features and an example implementation approach will be described.
   **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
   * **Duration of module:** 1 class
@@ -78,7 +78,7 @@ We welcome contributions and involvement from anyone interested and ask that you
     2. Add a one paragraph summary of a news article covering a population-related application of OSM
   * **Module To be completed by 5/5/17**
 
-5. Develop "Module 5 | Mapping Cultural Patterns and Processes OSM Map Features"
+5. **Develop "Module 5 | Mapping Cultural Patterns and Processes OSM Map Features"**
 **_CONTENT COMING SOON!_**
 
 * Compile feedback from educators and those involved in TeachOSM on module content, then incorporate feedback into content. [_Coming soon_]
