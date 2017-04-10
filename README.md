@@ -27,8 +27,8 @@ We welcome contributions and involvement from anyone interested and ask that you
   * **Duration of module:** 1 class
   * **Suggested Implementation:** 1st quarter of course
   * **Obvious AP Human Geography Link(s):**
-      1. Interpret maps and analyze geospatial data
-      2. [Geography: Its Nature and Perspectives | C, D, E](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+    1. Interpret maps and analyze geospatial data
+    2. [Geography: Its Nature and Perspectives | C, D, E](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
   * **Student Assignment:** Read [learnOSM | Introduction](http://learnosm.org/en/beginner/introduction/) with suggested questions formulated around the reading.
   * **Module To be completed by 4/14/17**
 
@@ -68,24 +68,106 @@ We welcome contributions and involvement from anyone interested and ask that you
 
 4. **Develop "Module 4 | Mapping Population OSM Map Features"**
   * **Summary:** Students will map population and migration-related map features anywhere in the world.  Specific map features and an example implementation approach will be described.
-  **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
+  * **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
   * **Duration of module:** 1 class
   * **Suggested Implementation:** 4th quarter of course
   * **Obvious AP Human Geography Link(s):**
-    1. [II. Population | A, B, C](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+    1. [II. Population](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
   * **Student Assignment:**
     1. Enter contributions in student journal
-    2. Add a one paragraph summary of a news article covering a population-related application of OSM
+    2. Add a one paragraph summary of a news article covering a population-related application of OSM being sure to cite sources
   * **Module To be completed by 5/5/17**
 
 5. **Develop "Module 5 | Mapping Cultural Patterns and Processes OSM Map Features"**
-**_CONTENT COMING SOON!_**
+  * **Summary:** Students will map cultural patterns and processes features anywhere in the world.  Specific map features and an example implementation approach will be described.
+  * **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
+  * **Duration of module:** 1 class
+  * **Suggested Implementation:** 4th quarter of course
+  * **Obvious AP Human Geography Link(s):**
+    1. [III. Cultural Patterns and Processes](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+  * **Student Assignment:**
+    1. Enter contributions in student journal
+    2. Add a one paragraph summary of a news article covering a cultural patterns or process-related application of OSM being sure to cite sources
+  * **Module To be completed by 5/12/17**
 
-* Compile feedback from educators and those involved in TeachOSM on module content, then incorporate feedback into content. [_Coming soon_]
+6. **Develop "Module 6 | Mapping Political Organization of Space OSM Map Features"**
+  * **Summary:** Students will map political organization of space features anywhere in the world.  Specific map features and an example implementation approach will be described.
+  * **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
+  * **Duration of module:** 1 class
+  * **Suggested Implementation:** 4th quarter of course
+  * **Obvious AP Human Geography Link(s):**
+    1. [IV. Political Organization of Space](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+  * **Student Assignment:**
+    1. Enter contributions in student journal
+    2. Add a one paragraph summary of a news article covering a political organization-related OSM story being sure to cite sources
+  * **Module To be completed by 5/19/17**
 
-* Provide grading approaches for teachers to implement. [_Coming soon_]
+7. **Develop "Module 7 | Mapping Agricultural and Rural Land Use OSM Map Features"**
+  * **Summary:** Students will map agricultural and rural land use features anywhere in the world.  Specific map features and an example implementation approach will be described.
+  * **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
+  * **Duration of module:** 1 class
+  * **Suggested Implementation:** 4th quarter of course
+  * **Obvious AP Human Geography Link(s):**
+    1. [V. Agricultural and Rural Land Use](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+  * **Student Assignment:**
+    1. Enter contributions in student journal
+    2. Add a one paragraph summary of a news article covering an agricultural or rural land use-related OSM story being sure to cite sources
+  * **Module To be completed by 5/26/17**
 
-* Provide a rewarding mechanism for instructor/program/individual involvement in TeachOSM. [_Coming soon_]
+8. **Develop "Module 8 | Mapping Industrialization and Economic Development OSM Map Features"**
+  * **Summary:** Students will map industrialization and economic development features anywhere in the world.  Specific map features and an example implementation approach will be described.
+  * **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
+  * **Duration of module:** 1 class
+  * **Suggested Implementation:** 4th quarter of course
+  * **Obvious AP Human Geography Link(s):**
+    1. [VI. Industrialization and Economic Development](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+  * **Student Assignment:**
+    1. Enter contributions in student journal
+    2. Add a one paragraph summary of a news article covering an industrialization or economic development-related OSM story being sure to cite sources
+  * **Module To be completed by 6/2/17**
+  * **[MOZILLA GLOBAL SPRINT DAY 2](https://science.mozilla.org/programs/events/global-sprint-2017)**
+
+9. **Develop "Module 9 | Mapping Cities and Urban Land Use OSM Map Features"**
+  * **Summary:** Students will map cities and urban land use features anywhere in the world.  Specific map features and an example implementation approach will be described.
+  * **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
+  * **Duration of module:** 1 class
+  * **Suggested Implementation:** 4th quarter of course
+  * **Obvious AP Human Geography Link(s):**
+    1. [VII. Cities and Urban Land Use](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+  * **Student Assignment:**
+    1. Enter contributions in student journal
+    2. Add a one paragraph summary of a news article covering a city or urban land use-related OSM story being sure to cite sources
+  * **Module To be completed by 6/9/17**
+
+10. **Develop "Module 10 | An Introduction to OSM Mapping Projects"**
+  * **Summary:** Teachers will be guided how to give an overview of all [OSM Mapping Projects](https://wiki.openstreetmap.org/wiki/Mapping_projects).  Students will "sign-up" for a project they will complete the year making contributions.
+  * **Format:** Lecture of mapping projects overview by the teacher, then student's will select a project to contribute towards and mapping contributions will commence
+  * **Duration of module:** Completion of academic schedule
+  * **Suggested Implementation:** 4th quarter of course
+  * **Obvious AP Human Geography Link(s):**
+    1. All encapsulating
+  * **Student Assignment:**
+    1. Enter contributions in student journal
+    2. Add a one paragraph summary of a news article covering an OSM mapping project story related to the student's selected OSM mapping project being sure to cite sources
+  * **Module To be completed by 6/16/17**
+
+11. **Develop "Module 11 | Let's Organize a Mapathon"**
+  * **Summary:** Teachers will be guided in best practices related to the organization of mapathons with the assistance of students.  Students will promote the event, reach out to interested public members and will participate in the mapathon.
+  * **Format:** All will seek community involvement, then student mapping contributions will commence.
+  * **Duration of module:** 1 day to 1 week
+  * **Suggested Implementation:** 4th quarter of course
+  * **Obvious AP Human Geography Link(s):**
+    1. All encapsulating
+  * **Student Assignment:**
+    1. Enter contributions in student journal
+    2. Add a one paragraph summary of a news article covering a mapathon-related OSM story being sure to cite sources
+  * **Module To be completed by 6/23/17**
+
+* Compile feedback from educators and those involved in TeachOSM on module content, then incorporate feedback into content. **[_Coming soon_]**
+
+* Provide grading approaches for teachers to implement. **[_Coming soon_]**
+
+* Provide a rewarding mechanism for instructor/program/individual involvement in TeachOSM. **[_Coming soon_]**
 
 ## Background
 
