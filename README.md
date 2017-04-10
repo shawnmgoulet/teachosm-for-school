@@ -21,7 +21,7 @@ We welcome contributions and involvement from anyone interested and ask that you
 
 ### Modules
 
-1. Develop **"Module 1 | Field Papers"**
+1. **Develop "Module 1 | Field Papers"**
   * **Summary:** This module will guide teachers in _easily_ using [Field Papers](http://fieldpapers.org/) to create aerial photograph base map(s) of a teacher-identified property which the teacher will take students to map features in the field.
   * **Format:** Students work in groups to map a section of the property using aerial maps in the field
   * **Duration of module:** 1 class
@@ -32,7 +32,7 @@ We welcome contributions and involvement from anyone interested and ask that you
   * **Student Assignment:** Read [learnOSM | Introduction](http://learnosm.org/en/beginner/introduction/) with suggested questions formulated around the reading.
   * **Module to be completed by 4/14/17**
 
-2. Develop **"Module 2 | Introduction to OpenStreetMap"**
+2. **Develop "Module 2 | Introduction to OpenStreetMap"**
   * **Summary:** This module will organize introductory level resources with that provide the teacher with a _simple_ but comprehensive overview of the OSM project with content that covers:
     1. the history/stats/facts of OSM from beginning to present day
     2. the importance of OSM with connections to map applications from social good to industry and in between
@@ -49,7 +49,7 @@ We welcome contributions and involvement from anyone interested and ask that you
   * **Student Assignment:** One page paper describing an OSM news article and the reason the student chose it
   * **Module to be completed by 4/21/17**
 
-3. Develop **"Module 3 | OSM Contribution Onboarding"**
+3. **Develop "Module 3 | OSM Contribution Onboarding"**
   * **Summary:** Teachers will be guided to:
     1. showcase **OSM map features** using [OSM Wiki | Map Features](https://wiki.openstreetmap.org/wiki/Map_Features)
     2. describe and give examples of good mapping practice using [OSM Wiki | Good Practice](https://wiki.openstreetmap.org/wiki/Good_practice)
