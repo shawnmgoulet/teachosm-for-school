@@ -1,6 +1,6 @@
 # TeachOSM for High School
 
-This TeachOSM for High School project under the [TeachOSM](http://teachosm.org) project umbrella provides educators with modular, scale-able [OpenStreetMap](https://www.openstreetmap.org/) (OSM) - related geography-based educational modules developed to integrate with the [United States AP Human Geography curriculum](https://apstudent.collegeboard.org/apcourse/ap-human-geography).
+This TeachOSM for High School project under the [TeachOSM](http://teachosm.org) project umbrella provides educators with scale-able [OpenStreetMap](https://www.openstreetmap.org/) (OSM) geography-based educational modules developed to integrate with the [United States AP Human Geography curriculum](https://apstudent.collegeboard.org/apcourse/ap-human-geography), exposing students to 21st century mapping technology.
 
 * **_Everyone_ is invited to collaborate to produce this meaningful organization of secondary education-level materials.**
 * **All materials and knowledge available within this project is shared widely and freely.**
@@ -125,7 +125,7 @@ We welcome contributions and involvement from anyone interested and ask that you
     1. Enter contributions in student journal
     2. Add a one paragraph summary of a news article covering an industrialization or economic development-related OSM story being sure to cite sources
   * **Module to be completed by 6/2/17**
-  * **[MOZILLA GLOBAL SPRINT DAY 2](https://science.mozilla.org/programs/events/global-sprint-2017)**
+  * **[MOZILLA GLOBAL SPRINT DAY 2017](https://science.mozilla.org/programs/events/global-sprint-2017)**
 
 9. **Develop "Module 9 | Mapping Cities and Urban Land Use OSM Map Features"**
   * **Summary:** Students will map cities and urban land use features anywhere in the world.  Specific map features and an example implementation approach will be described.
