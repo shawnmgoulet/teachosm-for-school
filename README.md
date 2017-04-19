@@ -7,7 +7,7 @@ This TeachOSM for High School project under the [TeachOSM](http://teachosm.org) 
 
 ## Contributing
 
-Thanks for your interest in contributing to the TeachOSM for High School project!  There are many ways to contribute.  To get started, take a look at **_Coming Soon | CONTRIBUTING.md_**
+Thanks for your interest in contributing to the TeachOSM for High School project!  There are many ways to contribute.  To get started, take a look at [CONTRIBUTING.md](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md).
 
 We welcome contributions and involvement from anyone interested and ask that you please send a short note of interest to info@teachosm.org if necessary.
 
@@ -17,7 +17,7 @@ We welcome contributions and involvement from anyone interested and ask that you
 
 * _Connect and engage_ interested educators. [Begun, ongoing]
 
-* Collect, organize & add value where necessary to TeachOSM modules. [_Coming soon_]
+* Collect, organize & add value where necessary to TeachOSM modules. [Begun, ongoing]
 
 ### Modules
 
@@ -163,11 +163,11 @@ We welcome contributions and involvement from anyone interested and ask that you
     2. Add a one paragraph summary of a news article covering a mapathon-related OSM story being sure to cite sources
   * **Module to be completed by 6/23/17**
 
-* Compile feedback from educators and those involved in TeachOSM on module content, then incorporate feedback into content. **[_Coming soon_]**
+* Compile feedback from educators and those involved in TeachOSM on module content, then incorporate feedback into content. **[_Following initial development_]**
 
-* Provide grading approaches for teachers to implement. **[_Coming soon_]**
+* Provide grading approaches for teachers to implement. **[_Following initial development_]**
 
-* Provide a rewarding mechanism for instructor/program/individual involvement in TeachOSM. **[_Coming soon_]**
+* Provide a rewarding mechanism for instructor/program/individual involvement in TeachOSM. **[_Following initial development_]**
 
 ## Background
 

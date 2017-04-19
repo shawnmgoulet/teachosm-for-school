@@ -1,4 +1,4 @@
-#Contributing to TeachOSM for High School
+# Contributing to TeachOSM for High School
 
 We encourage you to take a look at existing [issues](https://github.com/shawnmgoulet/teachosm-for-high-school/issues) for opportunities to contribute to existing tasks, pose new an additional issue for an unrelated question or open some other issue regarding something else.
 
