@@ -100,7 +100,8 @@ Long-term, it is the hope that an increase in exposure to and contributions from
   * **Obvious AP Human Geography Link(s):**
     1. Interpret maps and analyze geospatial data
   * **Student Assignment:**
-    1. Describe successes and obstacles confronted along with comfort level using the iD editor.  What is still unclear?
+    1. Complete the [Introduction to iD Editor](http://courses.hotosm.org/course/index.php?categoryid=1) and capture screen shots indicating completion to enter into the student journal
+    2. In the journal, students also describe their comfort level with using the iD editor.  What remains unclear at this point?
   * **Module to be completed by 5/5/17**
 
 #### 5. **Develop "Module 5 | Mapping Population OSM Map Features"**
