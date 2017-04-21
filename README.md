@@ -58,7 +58,7 @@ Long-term, it is the hope that an increase in exposure to and contributions from
   * **Summary:** This module will organize introductory level resources with that provide the teacher with a _simple_ but comprehensive overview of the OSM project with content that covers:
     1. the history/stats/facts of OSM from beginning to present day
     2. the importance of OSM with connections to map applications from social good to industry and in between
-      (e.g. HOTOSM, MissingMaps, Craigslist, Foursquare, Wikipedia, etc.)
+      (e.g. [HOTOSM](https://www.hotosm.org/), [MissingMaps](http://www.missingmaps.org/), [Craigslist](https://www.craigslist.org/about/sites), [Foursquare](https://foursquare.com/), [Wikipedia](https://www.wikipedia.org/), etc.)
     3. a connection to local map features found in the student's community
     4. a visualization of live edits using
       * https://osmlab.github.io/show-me-the-way/
