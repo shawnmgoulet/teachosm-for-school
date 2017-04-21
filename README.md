@@ -88,7 +88,22 @@ Long-term, it is the hope that an increase in exposure to and contributions from
     3. Make first entry into the student journal
   * **Module to be completed by 4/28/17**
 
-#### 4. **Develop "Module 4 | Mapping Population OSM Map Features"**
+#### 4. **Develop "Module 4 | OSM Mapping Practice"**
+  * **Summary:** Teachers will be guided to:
+    1. introduce and familiarize students with the **[iD editor](http://ideditor.com/)**
+    2. cover common **[iD editor shortcuts](http://wiki.openstreetmap.org/wiki/ID/Shortcuts)** with students
+    3. use the [LearnOSM Beginner iD Editor Guide](http://learnosm.org/en/beginner/id-editor/) to teach students about the correct fashion to contribute to the project
+    4. conduct a live walk-through with students using the **[iD Editor walkthrough](http://preview.ideditor.com/master/)**
+  * **Format:** Interactive, hands-on teacher-led workshop
+  * **Duration of module:** 1 class
+  * **Suggested Implementation:** 4th quarter of course
+  * **Obvious AP Human Geography Link(s):**
+    1. Interpret maps and analyze geospatial data
+  * **Student Assignment:**
+    1. Describe successes and obstacles confronted along with comfort level using the iD editor.  What is still unclear?
+  * **Module to be completed by 5/5/17**
+
+#### 5. **Develop "Module 5 | Mapping Population OSM Map Features"**
   * **Summary:** Students will map population and migration-related map features anywhere in the world.  Specific map features and an example implementation approach will be described.
   * **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
   * **Duration of module:** 1 class
@@ -98,9 +113,9 @@ Long-term, it is the hope that an increase in exposure to and contributions from
   * **Student Assignment:**
     1. Enter contributions in student journal
     2. Add a one paragraph summary of a news article covering a population-related application of OSM being sure to cite sources
-  * **Module to be completed by 5/5/17**
+  * **Module to be completed by 5/12/17**
 
-#### 5. **Develop "Module 5 | Mapping Cultural Patterns and Processes OSM Map Features"**
+#### 6. **Develop "Module 6 | Mapping Cultural Patterns and Processes OSM Map Features"**
   * **Summary:** Students will map cultural patterns and processes features anywhere in the world.  Specific map features and an example implementation approach will be described.
   * **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
   * **Duration of module:** 1 class
@@ -110,9 +125,9 @@ Long-term, it is the hope that an increase in exposure to and contributions from
   * **Student Assignment:**
     1. Enter contributions in student journal
     2. Add a one paragraph summary of a news article covering a cultural patterns or process-related application of OSM being sure to cite sources
-  * **Module to be completed by 5/12/17**
+  * **Module to be completed by 5/19/17**
 
-#### 6. **Develop "Module 6 | Mapping Political Organization of Space OSM Map Features"**
+#### 7. **Develop "Module 7 | Mapping Political Organization of Space OSM Map Features"**
   * **Summary:** Students will map political organization of space features anywhere in the world.  Specific map features and an example implementation approach will be described.
   * **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
   * **Duration of module:** 1 class
@@ -122,9 +137,9 @@ Long-term, it is the hope that an increase in exposure to and contributions from
   * **Student Assignment:**
     1. Enter contributions in student journal
     2. Add a one paragraph summary of a news article covering a political organization-related OSM story being sure to cite sources
-  * **Module to be completed by 5/19/17**
+  * **Module to be completed by 5/26/17**
 
-#### 7. **Develop "Module 7 | Mapping Agricultural and Rural Land Use OSM Map Features"**
+#### 8. **Develop "Module 8 | Mapping Agricultural and Rural Land Use OSM Map Features"**
   * **Summary:** Students will map agricultural and rural land use features anywhere in the world.  Specific map features and an example implementation approach will be described.
   * **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
   * **Duration of module:** 1 class
@@ -134,9 +149,10 @@ Long-term, it is the hope that an increase in exposure to and contributions from
   * **Student Assignment:**
     1. Enter contributions in student journal
     2. Add a one paragraph summary of a news article covering an agricultural or rural land use-related OSM story being sure to cite sources
-  * **Module to be completed by 5/26/17**
+  * **Module to be completed by 6/2/17**
+  * **[MOZILLA GLOBAL SPRINT DAY 2017](https://science.mozilla.org/programs/events/global-sprint-2017)**
 
-#### 8. **Develop "Module 8 | Mapping Industrialization and Economic Development OSM Map Features"**
+#### 9. **Develop "Module 9 | Mapping Industrialization and Economic Development OSM Map Features"**
   * **Summary:** Students will map industrialization and economic development features anywhere in the world.  Specific map features and an example implementation approach will be described.
   * **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
   * **Duration of module:** 1 class
@@ -146,10 +162,9 @@ Long-term, it is the hope that an increase in exposure to and contributions from
   * **Student Assignment:**
     1. Enter contributions in student journal
     2. Add a one paragraph summary of a news article covering an industrialization or economic development-related OSM story being sure to cite sources
-  * **Module to be completed by 6/2/17**
-  * **[MOZILLA GLOBAL SPRINT DAY 2017](https://science.mozilla.org/programs/events/global-sprint-2017)**
+  * **Module to be completed by 6/9/17**
 
-#### 9. **Develop "Module 9 | Mapping Cities and Urban Land Use OSM Map Features"**
+#### 10. **Develop "Module 10 | Mapping Cities and Urban Land Use OSM Map Features"**
   * **Summary:** Students will map cities and urban land use features anywhere in the world.  Specific map features and an example implementation approach will be described.
   * **Format:** Map features will be introduced by the teacher, then student mapping contributions will commence.
   * **Duration of module:** 1 class
@@ -159,9 +174,9 @@ Long-term, it is the hope that an increase in exposure to and contributions from
   * **Student Assignment:**
     1. Enter contributions in student journal
     2. Add a one paragraph summary of a news article covering a city or urban land use-related OSM story being sure to cite sources
-  * **Module to be completed by 6/9/17**
+  * **Module to be completed by 6/16/17**
 
-#### 10. **Develop "Module 10 | An Introduction to OSM Mapping Projects"**
+#### 11. **Develop "Module 11 | An Introduction to OSM Mapping Projects"**
   * **Summary:** Teachers will be guided how to give an overview of all [OSM Mapping Projects](https://wiki.openstreetmap.org/wiki/Mapping_projects).  Students will "sign-up" for a project they will complete the year making contributions.
   * **Format:** Lecture of mapping projects overview by the teacher, then student's will select a project to contribute towards and mapping contributions will commence
   * **Duration of module:** Completion of academic schedule
@@ -171,9 +186,9 @@ Long-term, it is the hope that an increase in exposure to and contributions from
   * **Student Assignment:**
     1. Enter contributions in student journal
     2. Add a one paragraph summary of a news article covering an OSM mapping project story related to the student's selected OSM mapping project being sure to cite sources
-  * **Module to be completed by 6/16/17**
+  * **Module to be completed by 6/23/17**
 
-#### 11. **Develop "Module 11 | Let's Organize a Mapathon"**
+#### 12. **Develop "Module 12 | Let's Organize a Mapathon"**
   * **Summary:** Teachers will be guided in best practices related to the organization of mapathons with the assistance of students.  Students will promote the event, reach out to interested public members and will participate in the mapathon.
   * **Format:** All will seek community involvement, then student mapping contributions will commence.
   * **Duration of module:** 1 day to 1 week
@@ -183,7 +198,7 @@ Long-term, it is the hope that an increase in exposure to and contributions from
   * **Student Assignment:**
     1. Enter contributions in student journal
     2. Add a one paragraph summary of a news article covering a mapathon-related OSM story being sure to cite sources
-  * **Module to be completed by 6/23/17**
+  * **Module to be completed by 6/30/17**
 
 * Compile feedback from educators and those involved in TeachOSM on module content, then incorporate feedback into content. **[_Following initial development_]**
 
