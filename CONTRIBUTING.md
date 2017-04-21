@@ -13,6 +13,8 @@ In summary, please use the repository's issues for all contributing-related comm
 
 #### Below is a copy of the existing **CONTRIBUTING.md** file on the [teachosm.org](http://teachosm.org) site, where this project will eventually be hosted.
 
+___
+
 ## Contributing to TeachOSM
 
 Thank you for your interest in contributing to [teachosm.org](http://teachosm.org). We explain here how to make
