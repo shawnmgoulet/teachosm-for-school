@@ -10,6 +10,7 @@ In summary, please use the repository's issues for all contributing-related comm
 
 - [@shawnmgoulet](https://github.com/shawnmgoulet)
 - [@TomM4](https://github.com/TomM4)
+- [@geomantic] (https://github.com/geomantic/)
 
 #### Below is a copy of the existing **CONTRIBUTING.md** file on the [teachosm.org](http://teachosm.org) site, where this project will eventually be hosted.
 
