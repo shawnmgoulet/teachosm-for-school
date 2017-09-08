@@ -8,9 +8,9 @@ In summary, please use the repository's issues for all contributing-related comm
 
 ## Current TeachOSM for High School Curriculum Contributors
 
-- [@shawnmgoulet](https://github.com/shawnmgoulet)
-- [@TomM4](https://github.com/TomM4)
-- [@geomantic](https://github.com/geomantic/)
+- Steven Johnson | [@geomantic](https://github.com/geomantic)
+- Tom Mueller | [@TomM4](https://github.com/TomM4)
+- Shawn Goulet | [@shawnmgoulet](https://github.com/shawnmgoulet)
 
 #### Below is a copy of the existing **CONTRIBUTING.md** file on the [teachosm.org](http://teachosm.org) site, where this project will eventually be hosted.
 

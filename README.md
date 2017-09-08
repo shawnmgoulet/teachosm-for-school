@@ -23,7 +23,7 @@ This project is also one of **[Mozilla's Open Leadership Training](https://mozil
 
 Thus far, TeachOSM for High School materials have not been organized and provided in a readily available, central and in an on-demand implementable state to educators.  This project will achieve just that.
 
-On completion, TeachOSM for High School will equip high school educators with a module-arranged, scalable content, providing seamless incorporation into their existing geography curriculum, sensitive of the AP Human Geography schedule. This will not negatively impact instructor workload and student education.
+Upon it's completion, TeachOSM for High School will equip high school educators with a module-arranged, scale-able content, providing seamless incorporation into their existing geography curriculum, sensitive of the AP Human Geography schedule. This will not negatively impact instructor workload and student education.
 
 In turn, this project will ultimately provide students the opportunity for hands-on exposure with 21st century geospatial mapping software and database structure, ultimately contributing to a global project having significant positive social impacts.
 
@@ -42,8 +42,6 @@ Long-term, it is the hope that an increase in exposure to and contributions from
 * _Connect and engage_ interested educators. [Begun, ongoing]
 
 * Collect, organize & add value where necessary to TeachOSM modules. [Begun, ongoing]
-
-* _Consolidate_ all materials on the **[TeachOSM website](http://teachosm.org)**
 
 ### Modules
 
@@ -92,7 +90,7 @@ Long-term, it is the hope that an increase in exposure to and contributions from
     3. Make first entry into the student journal
   * **Module to be completed by 4/28/17**
 
-#### 4. **Develop "Module 4 | OSM Mapping Practice - Editing"**
+#### 4. **Develop "Module 4 | OSM Mapping Practice"**
   * **Summary:** Teachers will be guided to:
     1. introduce and familiarize students with the **[iD editor](http://ideditor.com/)**
     2. cover common **[iD editor shortcuts](http://wiki.openstreetmap.org/wiki/ID/Shortcuts)** with students
