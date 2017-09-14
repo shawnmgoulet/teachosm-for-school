@@ -1,9 +1,9 @@
-Module 2 | Introduction to OpenStreetMap
+**Module 2 | Introduction to OpenStreetMap**
 
 * * *
 
 
-# Overview
+# **Overview**
 
 **Module Title:** Module 2 | Introduction to OpenStreetMap
 
@@ -102,7 +102,7 @@ Module 2 | Introduction to OpenStreetMap
 * * *
 
 
-# Educator Preparation
+# **Educator ****Preparation**
 
 1. Read the **[History of OpenStreetMa**p](http://wiki.openstreetmap.org/wiki/History_of_OpenStreetMap) and **[Moments in the History of OpenStreetM**a](https://www.flickr.com/photos/omnitarian/8466817332/sizes/o/in/photostream/)**[**p](https://www.flickr.com/photos/omnitarian/8466817332/sizes/o/in/photostream/) and get acquainted with some of the more important milestones in the project’s history.  Specifically, prepare answers to the following:
 
@@ -125,7 +125,7 @@ Module 2 | Introduction to OpenStreetMap
 * * *
 
 
-# In Class Educator Lecture
+# **In Class Educator Lecture**
 
 1.  Have students break into groups and answer these eight questions.  Students  must use the **[History of OpenStreetMa**p](http://wiki.openstreetmap.org/wiki/History_of_OpenStreetMap) and **[Moments in the History of OpenStreetMa**p](https://www.flickr.com/photos/omnitarian/8466817332/sizes/o/in/photostream/)  resources to answer.  Have the groups share their findings with the class, along with the source of their answers with the rest of the class.
 
@@ -176,7 +176,7 @@ Module 2 | Introduction to OpenStreetMap
 * * *
 
 
-# Student Assignment
+# **Student Assignment**
 
 Students must create a 1 page paper describing an OSM article over the past year and the reason the student chose it.
 
@@ -192,8 +192,10 @@ Examples of OSM articles and their associated topics include:
 
     * [JP Morgan Chase employees contribute to the Missing Maps project (JP)](https://www.jpmorganchase.com/corporate/news/stories/why-are-we-mapping-missing-maps.htm)
 
-This work will later be entered into each student’s journal upon being created in the next module.
+This work will then be entered into each student’s journal upon being created in the next module.
 
 * * *
 
+
+Questions? Comments? Concerns? Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm)
 

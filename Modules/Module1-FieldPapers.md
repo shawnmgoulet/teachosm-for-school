@@ -1,18 +1,23 @@
-# Overview
+**Module 1 | Intro to Field Papers**
 
-**Module Title:** Intro to Field Papers
+* * *
 
-**Activity Title: **Students work in groups to map a section of the property using aerial maps in the field  
 
-**Image: **[image web address or URL]
+# **Overview**
 
-**Image credit:** [license + author name linked to the page where the image lives]
+**Module Title:**  Module 1 | Intro to Field Papers
 
-**Made by:** OpenStreetMap Contributors
+**Activity Title:  **Students work in groups to map a section of a property using OSM-available base maps in the field.
 
-**Educator Prep Time:** approximately 1 hours
+**Image:  **[https://wiki.openstreetmap.org/w/images/7/7f/Field_Papers_making_an_atlas.png](https://wiki.openstreetmap.org/w/images/7/7f/Field_Papers_making_an_atlas.png)
 
-**Module Time: **designed for 45-60 minutes
+**Image credit:**  Creative Commons BY-SA 2.0 | OpenStreetMap Foundation
+
+**Made by:** TeachOSM Contributors
+
+**Educator Prep Time:** Approximately 1 hour
+
+**Module Time: **50-90 minute class
 
 **Activity X of Y:** 1 of 12
 
@@ -22,7 +27,7 @@
 
 2. Comparing and analyzing maps.
 
-**21st Century Skills:** [include all applicable skills]:
+**21st Century Skills:**
 
 * Collaboration
 
@@ -32,7 +37,7 @@
 
 * Problem-solving
 
-**Web Literacy Skills:** [include all applicable skills; see the [Web Literacy Map](https://learning.mozilla.org/web-literacy) for definitions of each skill]
+**Web Literacy Skills:**
 
 * Search
 
@@ -62,7 +67,7 @@
 
 * Share
 
-**Learning Objectives: **(**AP Human Geography**)
+**Learning Objectives:**
 
 1. Interpret maps and analyze geospatial data ([Geography: Its Nature and Perspectives | C, D, E](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details))
 
@@ -70,84 +75,87 @@
 
 3. Students will analyze their own and others perceptions of places
 
-**Audience:** [skill level + role, like "beginner web user;" try to name a specific audience or two rather than listing all possible audiences]
+**AP Human Geography Connection:**
+
+* **[Geography: Its Nature and Perspectives | A-**E](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+
+**Audience:**
 
 * Educator Resources: High School Educators
 
 * Module Activities: High School Students
 
-**Teacher Prep Materials:** 
+**Educator Materials:** 
 
 * Computer with Internet
 
-*  Printer and paper
+* Printer and paper
 
 **Student Materials:** 
 
 * Printed Maps 
 
-*  Colored Pencils
+* Colored Pencils
 
 * * *
 
 
-# Preparation
+# **Preparation**
 
-What should the facilitator do **before **teaching this lesson?
+This module will guide teachers in **_easily_** using [Field Papers](http://fieldpapers.org/) to create aerial photograph base map(s) which the teacher will take students to identify and map [OSM map features](http://wiki.openstreetmap.org/wiki/Map_Features) in the field. 
 
-This module will guide teachers in *easily* using [Field Papers](http://fieldpapers.org/) to create aerial photograph base map(s) which the teacher will take students to map features in the field. 
+1. Begin on page 4 of the [LearnOSM | Surveying Field Papers Tutorial](http://learnosm.org/en/mobile-mapping/field-papers/) (create and print): [http://learnosm.org/files/Field_Papers_en.pdf](http://learnosm.org/files/Field_Papers_en.pdf)
 
-1. Start on Page 4 of the LearnOSM – Surveying Field Papers Tutorial (Create and Print): [http://learnosm.org/files/Field_Papers_en.pdf](http://learnosm.org/files/Field_Papers_en.pdf)
+2. Follow the steps outlined at the link
 
-2. Follow the steps 
+3. Choose the base map type.  Usually black and white works best to challenge students to locate themselves using scale and position.  Aerial photography is also an option if you feel students may need more assistance.
 
-3. You can choose Aerial Photography or Black and White Map
+4. Additional issues to consider include:
 
-4. Some issues to think about:
+    1. Will the map be portrait or landscape?  This depends on the area coverage of the property students will be mapping.
 
-1. Will the Map be Portrait or Landscape (May depend on the area of your school)
-
-2. Adding a UTM grid
-
-1. This may be useful if you want to break the students into groups.  You could give each student or a group of students one particular grid.
+    2. Adding a grid of which squares can then be assigned to individual students or groups of students
 
 * * *
 
 
-# Introduction
+# **Student Assignment**
 
-**Student Reading:** Students should read [learnOSM | Introduction](http://learnosm.org/en/beginner/introduction/) before the class with suggested questions formulated around the reading.
+Students should read [learnOSM | Introduction](http://learnosm.org/en/beginner/introduction/) before the class with suggested questions formulated around the reading.
 
-1. The reading discusses the important questions – ask your students why can a map answer these questions?  Map Scale
+1. The reading discusses the important questions – ask your students why can a map answer these questions?
 
-2. Ask the students what different features are on school grounds
+2. Ask the students what different map features are on the property.
 
-3. What is the reasoning for the gird system?
+3. What is the reasoning for the grid system?
 
 * * *
 
 
-# Activity
+# **Student Exercise**
 
-**Steps**
+1. Pass out the printed maps with colored pencils.  Assign a student or group of students to map a particular area on school grounds
 
-Step 1: Pass out the printed maps with colored pencils.  Assign a student or group of students to map a particular area on school grounds
+2. Using colored pencils students will add any features that are missing from the map.  **NOTE:**  These features should be "nailed down" features (i.e. buildings, trees, ballfields, not cars, etc.)
 
-Step 2: Using colored pencils students will add any features that are missing from the map.  These features should be "nailed down" features (i.e. buildings, trees, ballfields, not cars, etc.)
+3. Students present their results
 
-Step 3: Students then return to the classroom and present their results
+4. There will then be a class discussion centered around these questions:
 
-Step 4: They will then be questioned by fellow students and possibly the teacher can question them:
+    1. Are all the features on the map?
 
-1. Are all the features on the map?
+    2. Which ones are missing?  What was students’ reasoning for adding and not adding certain features?  For example, do the baseball players know the ballfields better than others?
 
-2. Which ones are missing? What was their reasoning for adding and not adding certain features?  (For example, do the baseball players know the ballfields better than others?)
+    3. How familiar were the students with this part of the school grounds?
 
-3. How familiar were the students with this part of the school grounds?
+    4. Did students think certain features were more important than others?
 
-4. Did they think certain features were more important than others?
+    5. Did the students know the north part of campus, etc.?
 
-5. Did the students know the north part of campus, etc.?
+5. If there are new features to add to OSM, teachers and students should add those once going through Module 3 | OSM Contribution Onboarding.
 
-Questions? Comments? Concerns? Email [Chad](mailto:chad@mozillafoundation.org).
+* * *
+
+
+Questions? Comments? Concerns? Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm)
 
