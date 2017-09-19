@@ -5,7 +5,7 @@
 
 ## **Overview**
 
-**Module Title:**  Module 1 | Intro to Field Papers
+**Module Title:**  Module 1 | Intro to Field Papers
 
 **Activity Title:**  Students work in groups to map a section of a property using OSM-available base maps in the field.
 
