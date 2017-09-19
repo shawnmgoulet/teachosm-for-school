@@ -5,7 +5,7 @@
 
 ## **Overview**
 
-**Module Title:**  Module 0 | TeachOSM for High School: How to Use These Modules
+**Module Title:**  Module 0 | How to Use These Modules
 
 **Activity Title:**  This module provides an overview and explanation of the TeachOSM for High School modules and how to use them.  Educators should work through this module prior to introducing students to Modules 1-12.
 
@@ -140,7 +140,7 @@ Modules 5 - 10 are more specific in nature, and serve to connect open mapping to
 * * *
 
 
-# **Educator Activity**
+## **Educator Activity**
 
 This is a summary overview of the course modules.  Educators should skim this section.
 

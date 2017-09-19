@@ -1,31 +1,31 @@
-**Module 1 | Intro to Field Papers**
+# **Module 1 | Intro to Field Papers**
 
 * * *
 
 
-# **Overview**
+## **Overview**
 
 **Module Title:**  Module 1 | Intro to Field Papers
 
-**Activity Title:  **Students work in groups to map a section of a property using OSM-available base maps in the field.
+**Activity Title:**  Students work in groups to map a section of a property using OSM-available base maps in the field.
 
-**Image:  **[https://wiki.openstreetmap.org/w/images/7/7f/Field_Papers_making_an_atlas.png](https://wiki.openstreetmap.org/w/images/7/7f/Field_Papers_making_an_atlas.png)
+**Image:**  [https://wiki.openstreetmap.org/w/images/7/7f/Field_Papers_making_an_atlas.png](https://wiki.openstreetmap.org/w/images/7/7f/Field_Papers_making_an_atlas.png)
 
 **Image credit:**  Creative Commons BY-SA 2.0 | OpenStreetMap Foundation
 
-**Made by:** TeachOSM Contributors
+**Made by:**  TeachOSM Contributors
 
-**Educator Prep Time:** Approximately 1 hour
+**Educator Prep Time:**  Approximately 1 hour
 
-**Module Time: **50-90 minute class
+**Module Time:**  50-90 minute class
 
-**Activity X of Y:** 1 of 12
+**Activity X of Y:**  1 of 12
 
-**Read | Write | Participate on the Web **
+**Read | Write | Participate on the Web**
 
 1. Reading and interpreting a map
 
-2. Comparing and analyzing maps.
+2. Comparing and analyzing maps
 
 **21st Century Skills:**
 
@@ -77,7 +77,7 @@
 
 **AP Human Geography Connection:**
 
-* **[Geography: Its Nature and Perspectives | A-**E](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+* **[Geography: Its Nature and Perspectives | A-E](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)**
 
 **Audience:**
 
@@ -85,24 +85,24 @@
 
 * Module Activities: High School Students
 
-**Educator Materials:** 
+**Educator Materials:**
 
 * Computer with Internet
 
 * Printer and paper
 
-**Student Materials:** 
+**Student Materials:**
 
-* Printed Maps 
+* Printed Maps
 
 * Colored Pencils
 
 * * *
 
 
-# **Preparation**
+## **Preparation**
 
-This module will guide teachers in **_easily_** using [Field Papers](http://fieldpapers.org/) to create aerial photograph base map(s) which the teacher will take students to identify and map [OSM map features](http://wiki.openstreetmap.org/wiki/Map_Features) in the field. 
+This module will guide teachers in **_easily_** using [Field Papers](http://fieldpapers.org/) to create aerial photograph base map(s) which the teacher will take students to identify and map [OSM map features](http://wiki.openstreetmap.org/wiki/Map_Features) in the field.
 
 1. Begin on page 4 of the [LearnOSM | Surveying Field Papers Tutorial](http://learnosm.org/en/mobile-mapping/field-papers/) (create and print): [http://learnosm.org/files/Field_Papers_en.pdf](http://learnosm.org/files/Field_Papers_en.pdf)
 
@@ -119,7 +119,7 @@ This module will guide teachers in **_easily_** using [Field Papers](http://fiel
 * * *
 
 
-# **Student Assignment**
+## **Student Assignment**
 
 Students should read [learnOSM | Introduction](http://learnosm.org/en/beginner/introduction/) before the class with suggested questions formulated around the reading.
 
@@ -132,11 +132,12 @@ Students should read [learnOSM | Introduction](http://learnosm.org/en/beginner/i
 * * *
 
 
-# **Student Exercise**
+## **Student Exercise**
 
 1. Pass out the printed maps with colored pencils.  Assign a student or group of students to map a particular area on school grounds
 
-2. Using colored pencils students will add any features that are missing from the map.  **NOTE:**  These features should be "nailed down" features (i.e. buildings, trees, ballfields, not cars, etc.)
+2. Using colored pencils students will add any features that are missing from the map.
+**NOTE:**  These features should be "nailed down" features (i.e. buildings, trees, ballfields, not cars, etc.)
 
 3. Students present their results
 
@@ -154,8 +155,7 @@ Students should read [learnOSM | Introduction](http://learnosm.org/en/beginner/i
 
 5. If there are new features to add to OSM, teachers and students should add those once going through Module 3 | OSM Contribution Onboarding.
 
-* * *
-
-
-Questions? Comments? Concerns? Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm)
-
+---
+###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
+---
+###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md) to learn how!
