@@ -182,15 +182,15 @@ Students must create a 1 page paper describing an OSM article over the past year
 
 Examples of OSM articles and their associated topics include:
 
-    * [Stress levels biking through a city using OSM data (Next City)](https://nextcity.org/daily/entry/bike-survey-stress-mapping)
+* [Stress levels biking through a city using OSM data (Next City)](https://nextcity.org/daily/entry/bike-survey-stress-mapping)
 
-    * [OSM assisting with the restoration of abandoned mines (US DOI)](https://www.doi.gov/blog/abandonedmines)
+* [OSM assisting with the restoration of abandoned mines (US DOI)](https://www.doi.gov/blog/abandonedmines)
 
-    * [OSM data & art to best understand our cities (Forbes)](https://www.forbes.com/sites/lauriewinkless/2017/02/07/understanding-our-cities-thanks-to-beautiful-maps/#4974a93b1c69)
+* [OSM data & art to best understand our cities (Forbes)](https://www.forbes.com/sites/lauriewinkless/2017/02/07/understanding-our-cities-thanks-to-beautiful-maps/#4974a93b1c69)
 
-    * [The Missing Maps project making significant strides in 2015 (opensource.com)](https://opensource.com/life/15/12/creating-worlds-missing-maps-openstreetmap)
+* [The Missing Maps project making significant strides in 2015 (opensource.com)](https://opensource.com/life/15/12/creating-worlds-missing-maps-openstreetmap)
 
-    * [JP Morgan Chase employees contribute to the Missing Maps project (JP)](https://www.jpmorganchase.com/corporate/news/stories/why-are-we-mapping-missing-maps.htm)
+* [JP Morgan Chase employees contribute to the Missing Maps project (JP)](https://www.jpmorganchase.com/corporate/news/stories/why-are-we-mapping-missing-maps.htm)
 
 **NOTE:**  This work will then be entered into each student’s journal upon being created in the next module.
 
