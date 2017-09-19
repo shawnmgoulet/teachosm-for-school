@@ -1,25 +1,25 @@
-**Module 0 | TeachOSM for High School: How to Use These Modules**
+# **Module 0 | TeachOSM for High School: How to Use These Modules**
 
 * * *
 
 
-# **Overview**
+## **Overview**
 
-**Module Title:** Module 0 | TeachOSM for High School: How to Use These Modules
+**Module Title:**  Module 0 | TeachOSM for High School: How to Use These Modules
 
-**Activity Title:**** ** This module provides an overview and explanation of the TeachOSM for High School modules and how to use them.  Educators should work through this module prior to introducing students to Modules 1-12.
+**Activity Title:**  This module provides an overview and explanation of the TeachOSM for High School modules and how to use them.  Educators should work through this module prior to introducing students to Modules 1-12.
 
-**Image:  **[https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.svg](https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.svg)
+**Image:**  [https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.svg](https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.svg)
 
-**Image credit:** Creative Commons BY-SA 2.0 | OpenStreetMap (OSM) Foundation
+**Image credit:**  Creative Commons BY-SA 2.0 | OpenStreetMap (OSM) Foundation
 
-**Made by:** TeachOSM Contributors
+**Made by:**  TeachOSM Contributors
 
-**Educator Prep Time: **Preparation does not apply to this module.
+**Educator Prep Time:**  Preparation does not apply to this module.
 
-**Module Time: **60 - 90 minutes
+**Module Time:**  60 - 90 minutes
 
-**Activity X of Y** 0 of 12
+**Activity X of Y:**  0 of 12
 
 **Read | Write | Participate on the Web**
 
@@ -33,7 +33,7 @@
 
 * Problem-solving
 
-**Web Literacy Skills:** 
+**Web Literacy Skills:**
 
 * Search
 
@@ -55,7 +55,7 @@
 
 * Share
 
-**Learning Objectives: **
+**Learning Objectives:**
 
 *  Understand the purpose of TeachOSM for High School modules
 
@@ -63,7 +63,7 @@
 
 *  Understand how to mix and match the modules to tailor them to your teaching environment and subject material
 
-**Audience:** 
+**Audience:**
 
 *  Geography Teachers
 
@@ -82,13 +82,13 @@
 * * *
 
 
-# **Preparation**
+## **Preparation**
 
-Teachers should acquaint themselves with [OpenStreetMap](https://openstreetmap.org) (OSM) to begin gaining a basic understanding of OSM-related open mapping. 
+Teachers should acquaint themselves with [OpenStreetMap](https://openstreetmap.org) (OSM) to begin gaining a basic understanding of OSM-related open mapping.
 
 1. Visit the OSM [website](https://openstreetmap.org)
 
-    1. sign up for an OSM account 
+    1. sign up for an OSM account
 
     2. sign-in and choose the edit with iD editor
 
@@ -106,12 +106,12 @@ Teachers should acquaint themselves with [OpenStreetMap](https://openstreetmap.o
 
 * OSM does not work with the Microsoft Internet Explorer web browser.  Use Mozilla Firefox, Chrome, Safari, or Opera.
 
-* Although possible, tablets are NOT recommended for open mapping; most especially for newbies.  Either use a mouse with a desktop or laptop computer with a tracking pad.
+* Although possible, tablets are _*NOT*_ recommended for open mapping; most especially for newbies.  Either use a mouse with a desktop or laptop computer with a tracking pad.
 
 * * *
 
 
-# **Introduction**
+## **Introduction**
 
 This is the Overview Module intended to give teachers a summary overview of the individual modules included in the TeachOSM for High School initiative.  The modules are primarily intended to help AP Human Geography teachers connect open mapping to the AP Human Geography curriculum.  The modules are freely adaptable by teachers in other subject matter domains as well (e.g. U.S. History, Environmental Science, etc.).
 
@@ -411,5 +411,5 @@ This is a summary overview of the course modules.  Educators should skim this se
 * * *
 
 
-Questions? Comments? Concerns? Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm)
-
+If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
+To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md) to learn how!
