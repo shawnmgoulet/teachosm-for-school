@@ -114,7 +114,7 @@ By now you have your OpenStreetMap account, you’re familiar with the OpenStree
 
 4. Click on the Edit button on the top left hand corner of the OSM map window, and choose ‘iD Editor’ as seen in the example below:
 
-![OpenStreetMap | Edit with iD Editor](https://github.com/shawnmgoulet/teachosm-for-high-school/tree/master/Images/openstreetmap-edit-id-editor.png)
+![OpenStreetMap | Edit with iD Editor](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/openstreetmap-edit-id-editor.png)
 
 5. Go through the iD Walkthrough tutorial. The walkthrough is a brief but comprehensive utility to help you navigate the iD editor, understand how to add points, lines, and polygons, and how to add buildings. None of the data created in the Walkthrough is saved, so you are free to make mistakes and practice here. However, **once you start editing you will need to exercise more caution!**
 
