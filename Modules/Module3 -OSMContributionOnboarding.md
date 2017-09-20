@@ -15,7 +15,9 @@ The three resources students will learn about include:
 
 1. map features: the physical on the ground features that collectively comprise the map.  Below is a screenshot of the ‘library’ map feature as of July 5, 2017.
 
-[OpenStreetMap Wiki | Map Features | Library screenshot]: https://github.com/shawnmgoulet/teachosm-for-high-school/tree/master/Images/openstreetmap-wiki-map-features-library.png "OpenStreetMap Wiki | Map Features | Library screenshot"
+
+![OpenStreetMap Wiki | Map Features | Library screenshot](https://github.com/shawnmgoulet/teachosm-for-high-school/tree/master/Images/openstreetmap-wiki-map-features-library.png)
+
 
 2. good practices: guidelines that increase the quality and value of OSM data
 
@@ -61,7 +63,7 @@ The three resources students will learn about include:
 
 1. Given the **[OSM Map Features](https://wiki.openstreetmap.org/wiki/Map_Features)**, students will be able to identify and provide examples of the "on the ground features" that collectively comprise the OSM.  Students will explore and generate a list of features that are found in the neighborhood(s) in which they live and spend the majority of their time.  Students will draw a mental map of the neighborhoods with these features.  Two possible features include:
 
-    1. **[fire hydrants](https://wiki.openstreetmap.org/wiki/Tag:emergency%3Dfire_hydrant**) (a.k.a. fire plugs and johnny pumps)
+    1. **[fire hydrants](https://wiki.openstreetmap.org/wiki/Tag:emergency%3Dfire_hydrant)** (a.k.a. fire plugs and johnny pumps)
 
     2. **[stop signs](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dstop)** (a.k.a. stop lines and four-way stops)
 
@@ -180,7 +182,7 @@ _Teachers will create a folder for journals and ask students to save their journ
 
 3. For good practices, do you see anything missing?  Do you see any conflict between them?  If you had to pick the top three good practices to keep in mind at all times when contributing to OSM, which would they be?
 
-4. Read, in its entirety, the **[LearnOSM Getting Started](http://learnosm.org/en/beginner/start-osm/) page**.
+4. Read, in its entirety, the **[LearnOSM Getting Started](http://learnosm.org/en/beginner/start-osm/)** page.
 
 5. Register for an OSM account, sign into OSM clicking on the iD editor to edit to explore the map in edit mode.  Do not make any edits, only explore the software.  What is confusing, what do you like and what are you still unclear about?  Enter these answers, along with anything else into your journal.
 
