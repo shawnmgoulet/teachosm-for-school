@@ -128,3 +128,8 @@ Use of the Census in High School – OpenStreetMap
 1. Are the residence areas clustered?  If they are clustered? Northern part?  Southern Part?
 
 2. How close are those residences to the school?
+
+---
+###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
+---
+###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md) to learn how!

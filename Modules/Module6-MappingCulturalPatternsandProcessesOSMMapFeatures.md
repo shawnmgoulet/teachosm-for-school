@@ -1,102 +1,102 @@
-Module 6 | Mapping Cultural Patterns and Processes OSM Map Features
+# **Module 6 | Mapping Cultural Patterns and Processes OSM Map Features**
 
-**Overview**
+* * *
 
-**Module Title:** Module 6 | Mapping Cultural Patterns and Processes OSM Map Features
 
-**Activity Title: ** Students will map cultural patterns and processes features anywhere in the world. Specific map features and an example implementation approach will be described.
+## **Overview**
 
-**Image:****[ https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.sv**g](https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.svg)
+**Module Title:**  Module 6 | Mapping Cultural Patterns and Processes OSM Map Features
 
-**Image credit:** Creative Commons BY-SA 2.0 | OpenStreetMap Foundation
+**Activity Title:**  Students will map cultural patterns and processes features anywhere in the world. Specific map features and an example implementation approach will be described.
 
-**Made by:** OpenStreetMap Contributors
+**Image:**  [ https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.sv**g](https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.svg)
 
-**Educator Prep Time:** approximately 1-2 hours
+**Image credit:**  Creative Commons BY-SA 2.0 | OpenStreetMap Foundation
 
-**Module Time: **designed for 45-60 minutes
+**Made by:**  TeachOSM and OpenStreetMap contributors
 
-**Activity X of Y:** 6 of 12
+**Educator Prep Time:**  Approximately 1-2 hours
 
-**Students Read | Write | Participate on the Web: **Read, Write, Participate
+**Module Time:**  Designed for 45-60 minutes
 
-**Students 21st Century Skills:**
+**Activity X of Y:**  6 of 12
 
-❏      Technical Skills Research
+**Read | Write | Participate on the Web**
 
-❏      Employment Examples Research
+**21st Century Skills:**
 
-❏      Articulating Personal Interests
+* Collaboration
 
-❏      Writing Mechanics
+* Communication
 
-**Students Web Literacy Skills:**
+* Creativity
 
-❏      Search
+* Problem-solving
 
-❏      Navigate
+**Web Literacy Skills:**
 
-❏      Synthesize
+* Search
 
-❏      Evaluate
+* Navigate
 
-❏      Design
+* Synthesize
 
-❏      Code
+* Evaluate
 
-❏      Compose
+* Design
 
-❏      Revise
+* Code
 
-❏      Remix
+* Compose
 
-❏      Connect
+* Revise
 
-❏      Protect
+* Remix
 
-❏      Open Practice
+* Connect
 
-❏      Contribute
+* Protect
 
-Share
+* Open Practice
+
+* Contribute
+
+* Share
 
 **Learning Objectives:**
 
-●       Gain an understanding of the network of local or foreign cultural institutions and their purposes
+* Gain an understanding of the network of local or foreign cultural institutions and their purposes
 
-●      Analyze the make-up of communities around cultural landmarks and how they impact place
+* Analyze the make-up of communities around cultural landmarks and how they impact place
 
-●      [ AP Human Geography: ](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)**[Cultural Patterns and Processe**s](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+* **[ AP Human Geography: Cultural Patterns and Processes](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)**
 
 **Audience:**
 
-●       Educator Resources: High School Educators
+* Educator Resources: High School Educators
 
-●       Module Activities: High School Students
+* Module Activities: High School Students
 
 **Materials:**
 
-●       Computer / Mobile Internet Device
+* Computer / Mobile Internet Device
 
-●       Internet Connection
+* Internet Connection
 
-●       Web Browser (e.g. Mozilla Firefox)
+* Web Browser (e.g. Mozilla Firefox)
 
 * * *
 
 
-**Educator Preparation**
+## **Educator Preparation**
 
 Teachers will identify a place to research and begin to identify cultural landmarks and institutions such as restaurants, nationality and social clubs, places of worship, cafes and other community gathering places.
 
-* * *
+* **Obvious AP Human Geography Link(s):**
 
+    1. **[III. Cultural Patterns and Processes](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)**
 
-* **Obvious AP Human Geography Link(s):** 
-
-    1. **[III. Cultural Patterns and Processe**s](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
-
-**Educator Classroom Discussion**
+### **Educator Classroom Discussion**
 
 The teacher can discuss the topic of culture – learned behavior.  
 
@@ -108,23 +108,23 @@ The teacher can discuss the topic of culture – learned behavior.
 
 4. Food
 
-Sample Starter Questions
+**Sample Starter Questions**
 
-What types of religious institutions are found locally? 
+1. What types of religious institutions are found locally?
 
-What sports/extracurricular activities are popular?  What types of recreational facilities are there?
+2. What sports/extracurricular activities are popular?  What types of recreational facilities are there?
 
-What types of restaurants are popular?  What are the nationalities represented by cuisines offered by restaurants?
+3. What types of restaurants are popular?  What are the nationalities represented by cuisines offered by restaurants?
 
-What are the nationality/social clubs?  Where are they and are they located in an area of town dominated by the particular nationality?
+4. What are the nationality/social clubs?  Where are they and are they located in an area of town dominated by the particular nationality?
 
 **Student Assignment**
 
-1. Students can be put into groups and given one cultural component?  Religion, Sports Facilities, Restaurants. 
+1. Students can be put into groups and given one cultural component?  Religion, Sports Facilities, Restaurants.
 
 2. Students should then begin to mentally map on a piece of paper the location of their cultural facilities.
 
-3. Then each group can present their findings 
+3. Then each group can present their findings
 
 4. Then have the students use Overpass Turbo to examine their findings: [http:/](http://overpass-turbo.eu/)[/overpass-turbo.eu/](http://overpass-turbo.eu/) Run Overpass API queries and analyze the resulting OpenStreetMap data interactively on a map.
 
@@ -142,3 +142,7 @@ What are the nationality/social clubs?  Where are they and are they located in a
 
 7. Students should use the OpenStreetMap Wiki to understand the tagging system.  Here is the Religion Category: [http://wiki.openstreetmap.org/wiki/Key:religion](http://wiki.openstreetmap.org/wiki/Key:religion)
 
+---
+###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
+---
+###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md) to learn how!
