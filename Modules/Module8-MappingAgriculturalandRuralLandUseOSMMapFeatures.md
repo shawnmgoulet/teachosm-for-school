@@ -1,15 +1,15 @@
-Module 8 | Mapping Agricultural and Rural Land Use OSM Map Features
+# **Module 8 | Mapping Agricultural and Rural Land Use OSM Map Features**
 
 * * *
 
 
-# Overview
+## **Overview**
 
 **Module Title:** Module 8 | Mapping Agricultural and Rural Land Use OSM Map Features
 
-**Activity Title: **** **In this module, students will map road map features associated with agricultural practices and rural areas at location(s) in the world.  Students will explore similarities and differences between the arrangement of these facilities in areas where agricultural practices and rural landscape differs.  In addition, students will use two USDA products, the Census of Agriculture and the USDA CropScape tool to gain a sense about the agricultural industry in location(s) of study.  A suggested implementation is provided.
+**Activity Title:** In this module, students will map road map features associated with agricultural practices and rural areas at location(s) in the world.  Students will explore similarities and differences between the arrangement of these facilities in areas where agricultural practices and rural landscape differs.  In addition, students will use two USDA products, the Census of Agriculture and the USDA CropScape tool to gain a sense about the agricultural industry in location(s) of study.  A suggested implementation is provided.
 
-**Image****: **[https://wiki.openstreetmap.org/w/images/e/ef/Landuse%3Dfarmland.jpg](https://wiki.openstreetmap.org/w/images/e/ef/Landuse%3Dfarmland.jpg)
+**Image:** [https://wiki.openstreetmap.org/w/images/e/ef/Landuse%3Dfarmland.jpg](https://wiki.openstreetmap.org/w/images/e/ef/Landuse%3Dfarmland.jpg)
 
 **Image credit:** [Creative Commons Attribution-ShareAlike 2.0 license](https://wiki.openstreetmap.org/wiki/Wiki_content_license) | [https://wiki.openstreetmap.org/wiki/User:Harry_Wood](https://wiki.openstreetmap.org/wiki/User:Harry_Wood)
 
@@ -17,19 +17,23 @@ Module 8 | Mapping Agricultural and Rural Land Use OSM Map Features
 
 **Educator Prep Time:** Approximately 1 hour
 
-**Module Time: **50-90 minute class
+**Module Time:** 50-90 minute class
 
-**Activity**** X of Y:** 8 of 12
+**Activity** X of Y: 8 of 12
 
-**Students Read | Write | Participate on the Web: **Read, Write, Participate
+**Read | Write | Participate on the Web**
 
-**Students ****21st Century Skills****:**
+**21st Century Skills:**
 
 * Collaboration
 
+* Communication
+
+* Creativity
+
 * Problem-solving
 
-**Students Web Literacy Skills****:**
+**Web Literacy Skills:**
 
 * Search
 
@@ -43,11 +47,11 @@ Module 8 | Mapping Agricultural and Rural Land Use OSM Map Features
 
 * Share
 
-**Learning Objectives****:**
+**Learning Objectives*:**
 
-1. Given the list of **[map feature**s](http://wiki.openstreetmap.org/wiki/Map_Features), students will be able to identify and compile a list of OSM map features and their associated tags applicable to farm-to-market/agricultural/farm/ranch roads and rural roads in the two areas identified for analysis.
+1. Given the list of **[map feature**s](http://wiki.openstreetmap.org/wiki/Map_Features)**, students will be able to identify and compile a list of OSM map features and their associated tags applicable to farm-to-market/agricultural/farm/ranch roads and rural roads in the two areas identified for analysis.
 
-2. Using **[overpass turb**o](https://overpass-turbo.eu/), students will be able to examine the mapped agricultural and rural roads of the pertinent map features locally and begin to identify and prioritize issue areas where:
+2. Using **[overpass turbo](https://overpass-turbo.eu/)**, students will be able to examine the mapped agricultural and rural roads of the pertinent map features locally and begin to identify and prioritize issue areas where:
 
     1. possible improper tagging exists
 
@@ -55,13 +59,13 @@ Module 8 | Mapping Agricultural and Rural Land Use OSM Map Features
 
     3. rural roads exist, but are not properly tagged.
 
-3. Following identification and prioritization of areas where work is needed with **[overpass turb**o](https://overpass-turbo.eu/), students will work on issue areas either directly within overpass turbo, using the **[id edito**r](http://ideditor.com/) or the **[TeachOSM Tasking Manage**r](http://tasks.teachosm.org/).
+3. Following identification and prioritization of areas where work is needed with **[overpass turbo](https://overpass-turbo.eu/)**, students will work on issue areas either directly within overpass turbo, using the **[id editor](http://ideditor.com/)** or the **[TeachOSM Tasking Manager](http://tasks.teachosm.org/)**.
 
-4. Utilizing the **[USDA Census of Agricultur**e](https://www.agcensus.usda.gov/) and the **[USDA CropScap**e](https://nassgeodata.gmu.edu/), students will research the different types of places, and the people that are involved in their operations, that produce agricultural products and crops throughout the United States.
+4. Utilizing the **[USDA Census of Agriculture](https://www.agcensus.usda.gov/)** and the **[USDA CropScape](https://nassgeodata.gmu.edu/)**, students will research the different types of places, and the people that are involved in their operations, that produce agricultural products and crops throughout the United States.
 
 **AP Human Geography Connection:**
 
-* **[Agricultural and Rural Land Use | A - **D](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+* **[Agricultural and Rural Land Use | A - D](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)**
 
 **Audience:**
 
@@ -80,27 +84,27 @@ Module 8 | Mapping Agricultural and Rural Land Use OSM Map Features
 * * *
 
 
-# Educator Preparation
+## **Educator Preparation**
 
 **OSM Work**
 
-1. Explore the **[OSM Wiki | Map Feature**s](https://wiki.openstreetmap.org/wiki/Map_Features).
+1. Explore the **[OSM Wiki | Map Features](https://wiki.openstreetmap.org/wiki/Map_Features)**.
 
     1. Run a search on the Map Features page.
 
-        1. Examine the map features with the **[highwa**y](https://wiki.openstreetmap.org/wiki/Key:highway) key.
+        1. Examine the map features with the **[highway](https://wiki.openstreetmap.org/wiki/Key:highway)** key.
 
         2. A subset of the map features with the highway key will be used to explore agricultural roads and rural roads within OSM.
 
-        3. Review the **[highway=servic**e](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dservice) tag.  Students will use this tag to edit all farm-to-market roads.
+        3. Review the **[highway=service](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dservice)** tag.  Students will use this tag to edit all farm-to-market roads.
 
-        4. Read the **[highway=unclassifie**d](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dunclassified) tag.  Be sure to cover the *Situations where other tags should be used* subheading.  Notice that it discusses rural roads and agricultural roads.
+        4. Read the **[highway=unclassified](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dunclassified)** tag.  Be sure to cover the *Situations where other tags should be used* subheading.  Notice that it discusses rural roads and agricultural roads.
 
-        5. The motor_vehicle=agricultural tag has been replaced by the **[access=agricultura**l](https://wiki.openstreetmap.org/wiki/Key:access) tag.
+        5. The motor_vehicle=agricultural tag has been replaced by the **[access=agricultural](https://wiki.openstreetmap.org/wiki/Key:access)** tag.
 
 **NOTE:**  The access=agricultural key=value tag should only be used if the traffic is restricted to agricultural vehicles.
 
-        6. "Rural roads" fall within different highway tags.  Explore the **[highway=unclassifie**d](http://wiki.openstreetmap.org/wiki/Tag:highway%3Dunclassified), **[highway=secondar**y](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dsecondary), **[highway=tertiar**y](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtertiary) and **[highway=residentia**l](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dresidential) tags.  These tags are recommended to be explored and subsequently edited as the group of “rural roads” by students as part of this module.
+        6. "Rural roads" fall within different highway tags.  Explore the **[highway=unclassified](http://wiki.openstreetmap.org/wiki/Tag:highway%3Dunclassified)**, **[highway=secondary](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dsecondary), **[highway=tertiar**y](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtertiary) and **[highway=residentia**l](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dresidential) tags.  These tags are recommended to be explored and subsequently edited as the group of “rural roads” by students as part of this module.
 
 2. Familiarize yourself with these map features and prepare a short presentation to introduce these to the class during a lecture.  Consider just using the map features page and flipping through the key=value tags explained above.  Navigating through the map features page directly provides the students a guide of how they will in turn use the map features page as they work through this module.
 
@@ -116,7 +120,7 @@ Module 8 | Mapping Agricultural and Rural Land Use OSM Map Features
 
 **NOTE:**  It is imperative that you define each key=value tag so students understand that although they will need to use their best judgement in these cases, there is a definition for each map feature to guide their judgement.  There will be cases where roads will fall in the grey area between 2 different tags.  Explain to students that they need to make a decision and choose the "more correct" tag.  Sometimes mapping OSM features is not 100% straightforward and we anticipate that this exercise will certainly highlight this.  This is a part of the process in many areas of open mapping/digital geography.
 
-3. Navigate to **[overpass turb**o](https://overpass-turbo.eu/).  If you need to familiarize yourself with the overpass turbo open mapping tool, consider using a previous module such as module 7.
+3. Navigate to **[overpass turbo](https://overpass-turbo.eu/)**.  If you need to familiarize yourself with the overpass turbo open mapping tool, consider using a previous module such as module 7.
 
     6. Explore the key=value tags previously mentioned locally/somewhere else in your county, state or region to find an area where these tags have been mapped.  If your region does not have rural or agricultural roads, consider moving to another area of your county, state or the United States that does (e.g. midwest).
 
@@ -130,7 +134,7 @@ Module 8 | Mapping Agricultural and Rural Land Use OSM Map Features
 
 **OSM-Related Work**
 
-6. Navigate to the **[USDA Census of Agricultur**e](https://www.agcensus.usda.gov/) and the **[USDA CropScap**e](https://nassgeodata.gmu.edu/).
+6. Navigate to the **[USDA Census of Agriculture](https://www.agcensus.usda.gov/)** and the **[USDA CropScape](https://nassgeodata.gmu.edu/)**.
 
     9. Begin by exploring the Census and looking through different tools available.
 
@@ -160,7 +164,7 @@ Module 8 | Mapping Agricultural and Rural Land Use OSM Map Features
 
     16. There are many other functions of tools available within the CropSpace application.  Explore those available, such as creating statistical visualizations of your area of interest or exporting the area of interest’s statistics as a PDF.  Identify those you wish to introduce to your students for them to use to explore.
 
-7. Read **[#TimeToBuild America’s Infrastructure For Agriculture Trad**e](http://www.globalharvestinitiative.org/index.php/2017/05/timetobuild-americas-ag-trade-infrastructure/).  Consider introducing this article to students as a starting point for a discussion.  Then consider introducing the following questions to students for lecture/assignment purpose:
+7. Read **[#TimeToBuild America’s Infrastructure For Agriculture Trade](http://www.globalharvestinitiative.org/index.php/2017/05/timetobuild-americas-ag-trade-infrastructure/)**.  Consider introducing this article to students as a starting point for a discussion.  Then consider introducing the following questions to students for lecture/assignment purpose:
 
     17. consider touching upon the infrastructure necessary to bring our food to market (e.g. boat, multiple roads, air, train, etc.)
 
@@ -187,20 +191,20 @@ Module 8 | Mapping Agricultural and Rural Land Use OSM Map Features
 
 4. If necessary, demonstrate to students how they will use overpass turbo, id Editor and/or the TeachOSM Tasking Manager to map these features.  Show examples of these, features and how each open mapping tool would be used to accomplish editing within the area(s) you wish to contribute.
 
-	
+
 
 **NOTE:**  If students need a refresher on these tools, please point them to a previous module (e.g. Module 7) where they are covered for them to either begin using or refresh themselves with the tool.
 
 * * *
 
 
-# Student Assignment
+## **Student Assignment**
 
-*If not already done, students must complete the ***_[learnOSM | Getting Starte_**d](http://learnosm.org/en/beginner/start-osm/)* exercises and make their first contributions to the OSM within the High School's municipality prior to starting this exercise.*
+*If not already done, students must complete the *_[learnOSM | Getting Started](http://learnosm.org/en/beginner/start-osm/)_ exercises and make their first contributions to the OSM within the High School's municipality prior to starting this exercise.
 
 *With the above, students should have already made their first entry into their journal.*
 
-*Students must continue to contribute to their student journal to describe with text and screenshots of their contributions, issues, questions, etc. when making contributions to OSM.  *
+*Students must continue to contribute to their student journal to describe with text and screenshots of their contributions, issues, questions, etc. when making contributions to OSM.*
 
 *Teachers will create a folder for journals and ask students to save their journals to the folder. (e.g. Google Drive folder or some other place where all have access)*
 
@@ -264,7 +268,7 @@ is it historical? | is the government subsidizing the agricultural production?
 
             8. Might there be/have there been a relationship between water quality impacts and agricultural practices?
 
-1. Coupled with the questions and topic discussed above, choose to either write a one page paper or present to the class your research on agricultural items and existing and the health/state of modes of transportation.  Pair this by reading the **[#TimeToBuild America’s Infrastructure For Agriculture Trad**e](http://www.globalharvestinitiative.org/index.php/2017/05/timetobuild-americas-ag-trade-infrastructure/) article.
+1. Coupled with the questions and topic discussed above, choose to either write a one page paper or present to the class your research on agricultural items and existing and the health/state of modes of transportation.  Pair this by reading the **[#TimeToBuild America’s Infrastructure For Agriculture Trade](http://www.globalharvestinitiative.org/index.php/2017/05/timetobuild-americas-ag-trade-infrastructure/)** article.
 
     1. Consider leading a class discussion around the role of government in the agricultural industry and the transportation networks the industries use.
 
@@ -272,6 +276,7 @@ is it historical? | is the government subsidizing the agricultural production?
 
     3. Does government play a role and is it helpful/hurtful?
 
-* * *
-
-
+    ---
+    ###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
+    ---
+    ###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md) to learn how!
