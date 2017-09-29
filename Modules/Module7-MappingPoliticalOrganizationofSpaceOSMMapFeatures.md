@@ -132,7 +132,7 @@
 
         1. As you can see in the example screen shot below of part of a return, this ‘Details’ view contains a large amount of data pertaining to map features connected to the municipality.
 
-		![image alt text](image_0.png)
+		![Nominatim | Details](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/nominatim-details.png)
 
         2. Pertaining to political and governmental data and political organization of space, Nominatim includes: County, state, country, and military properties.
 
@@ -158,7 +158,7 @@
 
 3. Finally, browse to **[overpass turbo](https://overpass-turbo.eu/)**.  Demonstrate how to build a query to look for governmental and nongovermental organizations in some area.  Have a discussion with students to generate a list of these map features from memory.  Introduce resources such as the municipality web site, state/County web sites, local business directories and chamber of commerces.  Discuss with students what is already mapped and if it is mapped correctly and, also, what is missing from the map.
 
-	![image alt text](image_1.png)
+	![overpass turbo | Query Wizard](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/overpass-turbo-query-wizard.png)
 
 * * *
 
