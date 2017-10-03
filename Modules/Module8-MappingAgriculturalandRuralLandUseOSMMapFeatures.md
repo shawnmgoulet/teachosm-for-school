@@ -47,9 +47,9 @@
 
 * Share
 
-**Learning Objectives*:**
+**Learning Objectives:**
 
-1. Given the list of **[map feature**s](http://wiki.openstreetmap.org/wiki/Map_Features)**, students will be able to identify and compile a list of OSM map features and their associated tags applicable to farm-to-market/agricultural/farm/ranch roads and rural roads in the two areas identified for analysis.
+1. Given the list of **[map features](http://wiki.openstreetmap.org/wiki/Map_Features)**, students will be able to identify and compile a list of OSM map features and their associated tags applicable to farm-to-market/agricultural/farm/ranch roads and rural roads in the two areas identified for analysis.
 
 2. Using **[overpass turbo](https://overpass-turbo.eu/)**, students will be able to examine the mapped agricultural and rural roads of the pertinent map features locally and begin to identify and prioritize issue areas where:
 
@@ -102,9 +102,9 @@
 
         5. The motor_vehicle=agricultural tag has been replaced by the **[access=agricultural](https://wiki.openstreetmap.org/wiki/Key:access)** tag.
 
-**NOTE:**  The access=agricultural key=value tag should only be used if the traffic is restricted to agricultural vehicles.
+        **NOTE:**  The access=agricultural key=value tag should only be used if the traffic is restricted to agricultural vehicles.
 
-        6. "Rural roads" fall within different highway tags.  Explore the **[highway=unclassified](http://wiki.openstreetmap.org/wiki/Tag:highway%3Dunclassified)**, **[highway=secondary](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dsecondary), **[highway=tertiar**y](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtertiary) and **[highway=residentia**l](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dresidential) tags.  These tags are recommended to be explored and subsequently edited as the group of “rural roads” by students as part of this module.
+        6. "Rural roads" fall within different highway tags.  Explore the **[highway=unclassified](http://wiki.openstreetmap.org/wiki/Tag:highway%3Dunclassified)**, **[highway=secondary](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dsecondary), **[highway=tertiary](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtertiary)** and **[highway=residential](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dresidential)** tags.  These tags are recommended to be explored and subsequently edited as the group of “rural roads” by students as part of this module.
 
 2. Familiarize yourself with these map features and prepare a short presentation to introduce these to the class during a lecture.  Consider just using the map features page and flipping through the key=value tags explained above.  Navigating through the map features page directly provides the students a guide of how they will in turn use the map features page as they work through this module.
 
@@ -140,29 +140,29 @@
 
     10. The [Quick Stats](https://quickstats.nass.usda.gov/?source_desc=CENSUS) tool is a great place to begin to get an understanding either by commodity, by location or temporally.
 
-![image alt text](image_0.png)
+![USDA National Agricultural Statistics Service | Quick Stats](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/ag-census-quick-stats.png)
 
     11. The [Web Maps](https://www.agcensus.usda.gov/Publications/2012/Online_Resources/Ag_Census_Web_Maps/Overview/) are a great place to explore the data through a map lense.  Datasets displayed on the map include crops, economics and agricultural business operators, among others.
 
-	![image alt text](image_1.png)
+	![USDA Agricultural Census | Web Maps](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/ag-census-web-map.png)
 
     12. If you prefer looking at datasets at the state or county level, the [Full Report by State page](https://www.agcensus.usda.gov/Publications/2012/Full_Report/Census_by_State/) is the resource to use.  Here you can also obtain this data from Censuses dating back to 1840.
 
-![image alt text](image_2.png)
+![USDA Agricultural Census | Publications](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/ag-census-publications.png)
 
-    13. Head over to the CropSpace tool.
+    13. Head over to the CropScape tool.
 
     14. You will see that your left-hand panel holds the menu of geospatial layers available.
 
 **NOTE:**  Use the panel to turn on and off the different layers such as reviewing the changes in agricultural areas/types over time or exploring the geographic relationship between agricultural practice and surface water body, for instance.
 
-![image alt text](image_3.png)
+![USDA CropScape | Layers](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/cropscape-layers.png)
 
     15. Along the banner of buttons at the top of the site, locate the button of the United States filled with an American flag style.  Click on that to launch the *Define an Area of Interest by Geographic Extent* tool.  Walk through the steps of selecting the geographic level you wish to explore and then the region of that level.
 
-![image alt text](image_4.png)
+![USDA CropScape | Area of Interest](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/cropscape-aoi.png)
 
-    16. There are many other functions of tools available within the CropSpace application.  Explore those available, such as creating statistical visualizations of your area of interest or exporting the area of interest’s statistics as a PDF.  Identify those you wish to introduce to your students for them to use to explore.
+    16. There are many other functions of tools available within the CropScape application.  Explore those available, such as creating statistical visualizations of your area of interest or exporting the area of interest’s statistics as a PDF.  Identify those you wish to introduce to your students for them to use to explore.
 
 7. Read **[#TimeToBuild America’s Infrastructure For Agriculture Trade](http://www.globalharvestinitiative.org/index.php/2017/05/timetobuild-americas-ag-trade-infrastructure/)**.  Consider introducing this article to students as a starting point for a discussion.  Then consider introducing the following questions to students for lecture/assignment purpose:
 
@@ -187,7 +187,7 @@
 
 2. Center a discussion around infrastructure necessary to bring food to market locally and within a nation covered in your curriculum.  Consider using the article or some other literature and discussion/questions listed in the preparation above to have a class discussion centered around the topic.
 
-3. Introduce the USDA Census of Agriculture and CropSpace tool.  Explain to them how you wish to have them use these resources to gain a deeper understanding of the agricultural practices and industries in the area of study.
+3. Introduce the USDA Census of Agriculture and CropScape tool.  Explain to them how you wish to have them use these resources to gain a deeper understanding of the agricultural practices and industries in the area of study.
 
 4. If necessary, demonstrate to students how they will use overpass turbo, id Editor and/or the TeachOSM Tasking Manager to map these features.  Show examples of these, features and how each open mapping tool would be used to accomplish editing within the area(s) you wish to contribute.
 
