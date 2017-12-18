@@ -1,6 +1,6 @@
 # Participation Guidelines
 
-These guidelines cover our behavior as contributors making the TeachOSM for High School project possible.
+These guidelines cover our behavior as contributors making the TeachOSM for School project possible.
 
 ## How to treat each other
 
@@ -13,7 +13,7 @@ These guidelines cover our behavior as contributors making the TeachOSM for High
 
 ## Inclusion and Diversity
 
-The TeachOSM for High School project welcomes and encourages participation by everyone.  The project welcomes contributions from everyone as long as they interact constructively with our community, including, but not limited to people of varied age, culture, ethnicity, gender, gender-identity, language, race, sexual orientation, geographical location and religious views.
+The TeachOSM for School project welcomes and encourages participation by everyone.  The project welcomes contributions from everyone as long as they interact constructively with our community, including, but not limited to people of varied age, culture, ethnicity, gender, gender-identity, language, race, sexual orientation, geographical location and religious views.
 
 The entire TeachOSM project is inclusive and supports diversity.
 

@@ -1,4 +1,4 @@
-# **Module 0 | TeachOSM for High School: How to Use These Modules**
+# **Module 0 | TeachOSM for School: How to Use These Modules**
 
 * * *
 
@@ -7,7 +7,7 @@
 
 **Module Title:**  Module 0 | How to Use These Modules
 
-**Activity Title:**  This module provides an overview and explanation of the TeachOSM for High School modules and how to use them.  Educators should work through this module prior to introducing students to Modules 1-12.
+**Activity Title:**  This module provides an overview and explanation of the TeachOSM for School modules and how to use them.  Educators should work through this module prior to introducing students to Modules 1-12.
 
 **Image:**  [https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.svg](https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.svg)
 
@@ -57,7 +57,7 @@
 
 **Learning Objectives:**
 
-*  Understand the purpose of TeachOSM for High School modules
+*  Understand the purpose of TeachOSM for School modules
 
 *  Understand how to use the modules in class
 
@@ -113,9 +113,9 @@ Teachers should acquaint themselves with [OpenStreetMap](https://openstreetmap.o
 
 ## **Introduction**
 
-This is the Overview Module intended to give teachers a summary overview of the individual modules included in the TeachOSM for High School initiative.  The modules are primarily intended to help AP Human Geography teachers connect open mapping to the AP Human Geography curriculum.  The modules are freely adaptable by teachers in other subject matter domains as well (e.g. U.S. History, Environmental Science, etc.).
+This is the Overview Module intended to give teachers a summary overview of the individual modules included in the TeachOSM for School initiative.  The modules are primarily intended to help AP Human Geography teachers connect open mapping to the AP Human Geography curriculum.  The modules are freely adaptable by teachers in other subject matter domains as well (e.g. U.S. History, Environmental Science, etc.).
 
-This TeachOSM for High School initiative provides educators with scale-able OSM-centered geography-based educational modules developed to integrate with the [United States AP Human Geography curriculum](https://apstudent.collegeboard.org/apcourse/ap-human-geography), exposing students to 21st century mapping technology. The modules have been developed under the [TeachOSM](http://teachosm.org/) project umbrella.
+This TeachOSM for School initiative provides educators with scale-able OSM-centered geography-based educational modules developed to integrate with the [United States AP Human Geography curriculum](https://apstudent.collegeboard.org/apcourse/ap-human-geography), exposing students to 21st century mapping technology. The modules have been developed under the [TeachOSM](http://teachosm.org/) project umbrella.
 
 * *Everyone* is invited to collaborate and contribute to the continued development ofthis meaningful organization of secondary education-level materials.
 
@@ -127,7 +127,7 @@ This project was also part  of [Mozilla's Open Leadership Training](https://mozi
 
 To date, open mapping materials suitable for the AP Human Geography curriculum have not been organized and provided in a centralized, readily available, on-demand implementable state to educators.  Additionally, training for teachers integrating this flavor of education has not been available to educators.  This project aims to remedy these.
 
-TeachOSM for High School will equip high school educators with a series of modules with scalable content, providing seamless incorporation into their existing geography curriculum, sensitive of the AP Human Geography schedule. This reduces the instructor workload and increases student contributions in open mapping.
+TeachOSM for School will equip high school educators with a series of modules with scalable content, providing seamless incorporation into their existing geography curriculum, sensitive of the AP Human Geography schedule. This reduces the instructor workload and increases student contributions in open mapping.
 
 In turn, this gives students the opportunity for hands-on exposure with 21st century geospatial mapping software and database structure, ultimately contributing to a global project having significant positive social impacts.
 

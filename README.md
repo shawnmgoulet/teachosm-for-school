@@ -1,13 +1,13 @@
-# TeachOSM for High School
+# TeachOSM for School
 
-This TeachOSM for High School project under the **[TeachOSM](http://teachosm.org)** project umbrella provides educators with scale-able **[OpenStreetMap](https://www.openstreetmap.org/)** (OSM) geography-based educational modules developed to integrate with the **[United States AP Human Geography curriculum](https://apstudent.collegeboard.org/apcourse/ap-human-geography)**, exposing students to 21st century mapping technology.
+This TeachOSM for School project under the **[TeachOSM](http://teachosm.org)** project umbrella provides educators with scale-able **[OpenStreetMap](https://www.openstreetmap.org/)** (OSM) geography-based educational modules developed to integrate with the **[United States AP Human Geography curriculum](https://apstudent.collegeboard.org/apcourse/ap-human-geography)**, exposing students to 21st century mapping technology.
 
 * **_Everyone_ is invited to collaborate to produce this meaningful organization of secondary education-level materials.**
 * **All materials and knowledge available within this project is shared widely and freely.**
 
 ## Contributing
 
-Thanks for your interest in contributing to the TeachOSM for High School project!  There are many ways to contribute.  To get started, take a look at **[CONTRIBUTING.md](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md)**.
+Thanks for your interest in contributing to the TeachOSM for School project!  There are many ways to contribute.  To get started, take a look at **[CONTRIBUTING.md](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md)**.
 
 We welcome contributions and involvement from anyone interested and ask that you please send a short note of interest to info@teachosm.org if necessary.
 
@@ -21,9 +21,9 @@ This project is also one of **[Mozilla's Open Leadership Training](https://mozil
 
 ## Project Purpose/Summary
 
-Thus far, TeachOSM for High School materials have not been organized and provided in a readily available, central and in an on-demand implementable state to educators.  This project will achieve just that.
+Thus far, TeachOSM for School materials have not been organized and provided in a readily available, central and in an on-demand implementable state to educators.  This project will achieve just that.
 
-Upon it's completion, TeachOSM for High School will equip high school educators with a module-arranged, scale-able content, providing seamless incorporation into their existing geography curriculum, sensitive of the AP Human Geography schedule. This will not negatively impact instructor workload and student education.
+Upon it's completion, TeachOSM for School will equip high school educators with a module-arranged, scale-able content, providing seamless incorporation into their existing geography curriculum, sensitive of the AP Human Geography schedule. This will not negatively impact instructor workload and student education.
 
 In turn, this project will ultimately provide students the opportunity for hands-on exposure with 21st century geospatial mapping software and database structure, ultimately contributing to a global project having significant positive social impacts.
 

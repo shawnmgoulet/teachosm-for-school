@@ -1,12 +1,12 @@
-# Contributing to TeachOSM for High School
+# Contributing to TeachOSM for School
 
 We encourage you to take a look at existing [issues](https://github.com/shawnmgoulet/teachosm-for-high-school/issues) for opportunities to contribute to existing tasks, pose new an additional issue for an unrelated question or open some other issue regarding something else.
 
-We intend to use the issues in the repository throughout the development of all TeachOSM for High School modules.  If you would like to work on a particular module, please assign that corresponding issue to yourself to indicate that it is accounted for.
+We intend to use the issues in the repository throughout the development of all TeachOSM for School modules.  If you would like to work on a particular module, please assign that corresponding issue to yourself to indicate that it is accounted for.
 
 In summary, please use the repository's issues for all contributing-related communication regarding this project.
 
-## Current TeachOSM for High School Curriculum Contributors
+## Current TeachOSM for School Curriculum Contributors
 
 - Steven Johnson | [@geomantic](https://github.com/geomantic)
 - Tom Mueller | [@TomM4](https://github.com/TomM4)
