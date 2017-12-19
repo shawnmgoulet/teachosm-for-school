@@ -114,11 +114,11 @@ By now you have your OpenStreetMap account, you’re familiar with the OpenStree
 
 4. Click on the Edit button on the top left hand corner of the OSM map window, and choose ‘iD Editor’ as seen in the example below:
 
-![OpenStreetMap | Edit with iD Editor](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/openstreetmap-edit-id-editor.png)
+![OpenStreetMap | Edit with iD Editor](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/openstreetmap-edit-id-editor.png)
 
 5. Go through the iD Walkthrough tutorial. The walkthrough is a brief but comprehensive utility to help you navigate the iD editor, understand how to add points, lines, and polygons, and how to add buildings. None of the data created in the Walkthrough is saved, so you are free to make mistakes and practice here. However, **once you start editing you will need to exercise more caution!**
 
-![OpenStreetMap | iD Editor | Walkthrough](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/openstreetmap-id-editor-walkthrough.png)
+![OpenStreetMap | iD Editor | Walkthrough](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/openstreetmap-id-editor-walkthrough.png)
 
 6. After finishing Walkthrough, navigate to your neighborhood or a place *very* familiar to you.
 
@@ -132,13 +132,13 @@ By now you have your OpenStreetMap account, you’re familiar with the OpenStree
 
 * Square your building by typing ‘s’ or by right-clicking on the line and select the **square** option from the context menu as shown below.
 
-![OpenStreetMap | iD Editor | Square Buildings](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/openstreetmap-id-editor-square-buildings.png)
+![OpenStreetMap | iD Editor | Square Buildings](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/openstreetmap-id-editor-square-buildings.png)
 
 ### **Drawing Roads (and other lines)**
 
 8. Drawing roads. Parking lots aisles and driveways are an easy start. Make sure all road segments connect as shown in the image below.
 
-![OpenStreetMap | iD Editor | Parking Aisle](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/openstreetmap-id-editor-parking-aisle.png)
+![OpenStreetMap | iD Editor | Parking Aisle](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/openstreetmap-id-editor-parking-aisle.png)
 
 Once you’ve mastered the connectivity and road tagging, graduate to bigger roads. Make sure the road is named. Classify roads as **‘residential’** unless you know otherwise.
 
@@ -146,7 +146,7 @@ Once you’ve mastered the connectivity and road tagging, graduate to bigger roa
 
 9. Now let’s add a local business or an institution or another POIs as a point feature. Click the **‘Point’** button. Your mouse cursor will change into plus (+) sign. Now, click on a position that you know to mark a location. For example, if you know that there is a hospital in your area, click on the position of the hospital building as shown in the image below:
 
-![OpenStreetMap | iD Editor | Point Map Feature](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/openstreetmap-id-editor-point-map-feature.png)
+![OpenStreetMap | iD Editor | Point Map Feature](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/openstreetmap-id-editor-point-map-feature.png)
 
 Notice that a new point is added. At the same time, the left panel will change to show a form where you can select attributes for the object. Click **Hospital Grounds** to tag the point as a hospital as shown in the image below.
 
@@ -186,4 +186,4 @@ To save your changes, click the **‘Save’** button. This brings up the panel 
 ---
 ###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
 ---
-###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md) to learn how!
+###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/CONTRIBUTING.md) to learn how!

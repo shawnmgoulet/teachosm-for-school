@@ -105,11 +105,11 @@ Use of the Census in High School – OpenStreetMap
 
 3. Choose General Population and Housing Characteristics
 
-![U.S. Census Population](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/us-census-population.png)
+![U.S. Census Population](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/us-census-population.png)
 
 4. Move down the website until you find the Average Household Size
 
-![U.S. Census Average Household Size](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/us-census-avg-household-size.png)
+![U.S. Census Average Household Size](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/us-census-avg-household-size.png)
 
 5. Start a discussion with your students.  What does this mean?  
 
@@ -132,4 +132,4 @@ Use of the Census in High School – OpenStreetMap
 ---
 ###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
 ---
-###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md) to learn how!
+###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/CONTRIBUTING.md) to learn how!

@@ -1,6 +1,6 @@
 # Contributing to TeachOSM for School
 
-We encourage you to take a look at existing [issues](https://github.com/shawnmgoulet/teachosm-for-high-school/issues) for opportunities to contribute to existing tasks, pose new an additional issue for an unrelated question or open some other issue regarding something else.
+We encourage you to take a look at existing [issues](https://github.com/shawnmgoulet/teachosm-for-school/issues) for opportunities to contribute to existing tasks, pose new an additional issue for an unrelated question or open some other issue regarding something else.
 
 We intend to use the issues in the repository throughout the development of all TeachOSM for School modules.  If you would like to work on a particular module, please assign that corresponding issue to yourself to indicate that it is accounted for.
 

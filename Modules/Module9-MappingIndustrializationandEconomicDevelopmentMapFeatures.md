@@ -64,7 +64,7 @@ Module 9 | Industrialization and Economic Development
 
 **Materials:**
 
-* Computer
+* Computer (laptop or desktop)
 
 * Internet Connection
 
@@ -116,13 +116,13 @@ Module 9 | Industrialization and Economic Development
 
 5. In Drop Down Menu Choose Zip Code, then select your State, then your school’s zip code:
 
-![US Census American FactFinder | Zip Code Search](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/industrialization-zip-codes.png)
+![US Census American FactFinder | Zip Code Search](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/industrialization-zip-codes.png)
 
 6. Click Add To Your Selections
 
 7. Each Group of students should examine their table:
 
-![US Census American FactFinder | Tables](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/industrialization-tables.png)
+![US Census American FactFinder | Tables](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/industrialization-tables.png)
 
 8. Using their table, ask students to create a small presentation on their economic sector.
 
@@ -135,4 +135,4 @@ Module 9 | Industrialization and Economic Development
         ---
         ###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
         ---
-        ###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md) to learn how!
+        ###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/CONTRIBUTING.md) to learn how!

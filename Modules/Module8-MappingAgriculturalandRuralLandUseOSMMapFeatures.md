@@ -140,15 +140,15 @@
 
     10. The [Quick Stats](https://quickstats.nass.usda.gov/?source_desc=CENSUS) tool is a great place to begin to get an understanding either by commodity, by location or temporally.
 
-![USDA National Agricultural Statistics Service | Quick Stats](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/ag-census-quick-stats.png)
+![USDA National Agricultural Statistics Service | Quick Stats](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/ag-census-quick-stats.png)
 
     11. The [Web Maps](https://www.agcensus.usda.gov/Publications/2012/Online_Resources/Ag_Census_Web_Maps/Overview/) are a great place to explore the data through a map lense.  Datasets displayed on the map include crops, economics and agricultural business operators, among others.
 
-	![USDA Agricultural Census | Web Maps](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/ag-census-web-map.png)
+	![USDA Agricultural Census | Web Maps](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/ag-census-web-map.png)
 
     12. If you prefer looking at datasets at the state or county level, the [Full Report by State page](https://www.agcensus.usda.gov/Publications/2012/Full_Report/Census_by_State/) is the resource to use.  Here you can also obtain this data from Censuses dating back to 1840.
 
-![USDA Agricultural Census | Publications](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/ag-census-publications.png)
+![USDA Agricultural Census | Publications](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/ag-census-publications.png)
 
     13. Head over to the CropScape tool.
 
@@ -156,11 +156,11 @@
 
 **NOTE:**  Use the panel to turn on and off the different layers such as reviewing the changes in agricultural areas/types over time or exploring the geographic relationship between agricultural practice and surface water body, for instance.
 
-![USDA CropScape | Layers](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/cropscape-layers.png)
+![USDA CropScape | Layers](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/cropscape-layers.png)
 
     15. Along the banner of buttons at the top of the site, locate the button of the United States filled with an American flag style.  Click on that to launch the *Define an Area of Interest by Geographic Extent* tool.  Walk through the steps of selecting the geographic level you wish to explore and then the region of that level.
 
-![USDA CropScape | Area of Interest](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/Images/cropscape-aoi.png)
+![USDA CropScape | Area of Interest](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/cropscape-aoi.png)
 
     16. There are many other functions of tools available within the CropScape application.  Explore those available, such as creating statistical visualizations of your area of interest or exporting the area of interest’s statistics as a PDF.  Identify those you wish to introduce to your students for them to use to explore.
 
@@ -279,4 +279,4 @@ is it historical? | is the government subsidizing the agricultural production?
     ---
     ###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
     ---
-    ###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md) to learn how!
+    ###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/CONTRIBUTING.md) to learn how!

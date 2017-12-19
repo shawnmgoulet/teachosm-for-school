@@ -123,7 +123,7 @@ This TeachOSM for School initiative provides educators with scale-able OSM-cente
 
 A number of members of the TeachOSM community have been working with high school educators, most specifically AP Human Geography instructors, and students in the United States leveraging the OSM software to familiarize students with web maps, geospatial data / map features and projects connected to course sections. This kind of work has been [documented](http://teachosm.org/en/cases/cape-cod/) thus far.
 
-This project was also part  of [Mozilla's Open Leadership Training](https://mozilla.github.io/leadership-training/projects/#teachosm-for-high-school) Round 3 cohort. The Open Leadership Training is a 14 week online mentorship program on working open in the Mozilla Network. The project was one of 39 selected from a pool of over 100 applications for the cohort.
+This project was also part  of [Mozilla's Open Leadership Training](https://mozilla.github.io/leadership-training/projects/#teachosm-for-school) Round 3 cohort. The Open Leadership Training is a 14 week online mentorship program on working open in the Mozilla Network. The project was one of 39 selected from a pool of over 100 applications for the cohort.
 
 To date, open mapping materials suitable for the AP Human Geography curriculum have not been organized and provided in a centralized, readily available, on-demand implementable state to educators.  Additionally, training for teachers integrating this flavor of education has not been available to educators.  This project aims to remedy these.
 
@@ -411,4 +411,4 @@ This is a summary overview of the course modules.  Educators should skim this se
 ---
 ###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
 ---
-###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md) to learn how!
+###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/CONTRIBUTING.md) to learn how!

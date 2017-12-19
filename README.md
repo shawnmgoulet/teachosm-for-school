@@ -7,17 +7,15 @@ This TeachOSM for School project under the **[TeachOSM](http://teachosm.org)** p
 
 ## Contributing
 
-Thanks for your interest in contributing to the TeachOSM for School project!  There are many ways to contribute.  To get started, take a look at **[CONTRIBUTING.md](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md)**.
+Thanks for your interest in contributing to the TeachOSM for School project!  There are many ways to contribute.  To get started, take a look at **[CONTRIBUTING.md](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/CONTRIBUTING.md)**.
 
 We welcome contributions and involvement from anyone interested and ask that you please send a short note of interest to info@teachosm.org if necessary.
-
-Also, the **[MOZILLA GLOBAL SPRINT DAY 2017](https://science.mozilla.org/programs/events/global-sprint-2017)** will be taking place June 1 - 2, 2017 and this project will be a part of the sprint.  Please consider contributing on June 1 and/or 2 as part of this event!
 
 ## Background
 
 A number of members of the TeachOSM community have been working with high school educators, most specifically AP Human Geography instructors, and students in the United States over the past four years leveraging the OSM software to familiarize students with web maps, geospatial data / map features and projects connected to course sections.  This kind of work has been **[documented](http://teachosm.org/en/cases/cape-cod/)** thus far.
 
-This project is also one of **[Mozilla's Open Leadership Training](https://mozilla.github.io/leadership-training/projects/#teachosm-for-high-school)** Round 3 cohort projects.  The Open Leadership Training is a 14 week online mentorship program on working open in the Mozilla Network.  The project is one of 39 selected from a pool of over 100 applications for this cohort.
+This project is also one of **[Mozilla's Open Leadership Training](https://mozilla.github.io/leadership-training/projects/#teachosm-for-school)** Round 3 cohort projects.  The Open Leadership Training is a 14 week online mentorship program on working open in the Mozilla Network.  The project is one of 39 selected from a pool of over 100 applications for this cohort.
 
 ## Project Purpose/Summary
 

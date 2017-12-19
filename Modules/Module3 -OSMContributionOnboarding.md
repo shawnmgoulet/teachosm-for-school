@@ -16,7 +16,7 @@ The three resources students will learn about include:
 1. map features: the physical on the ground features that collectively comprise the map.  Below is a screenshot of the ‘library’ map feature as of July 5, 2017.
 
 
-![OpenStreetMap Wiki | Map Features | Library screenshot](https://github.com/shawnmgoulet/teachosm-for-high-school/tree/master/Images/openstreetmap-wiki-map-features-library.png)
+![OpenStreetMap Wiki | Map Features | Library screenshot](https://github.com/shawnmgoulet/teachosm-for-school/tree/master/Images/openstreetmap-wiki-map-features-library.png)
 
 
 2. good practices: guidelines that increase the quality and value of OSM data
@@ -189,4 +189,4 @@ _Teachers will create a folder for journals and ask students to save their journ
 ---
 ###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
 ---
-###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-high-school/blob/master/CONTRIBUTING.md) to learn how!
+###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/CONTRIBUTING.md) to learn how!
