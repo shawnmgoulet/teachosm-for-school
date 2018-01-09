@@ -1,6 +1,8 @@
-Module 9 | Industrialization and Economic Development
+# **Module 9 | Industrialization and Economic Development**
 
-**Overview**
+* * *
+
+## **Overview**
 
 **Module Title:** Module 9 | Industrialization and Economic Development
 
