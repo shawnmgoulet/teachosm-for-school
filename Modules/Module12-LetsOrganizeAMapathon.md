@@ -292,7 +292,7 @@ A YouTube video on hosting your own mapathon: [https://www.youtube.com/watch?v=n
 
 Ideas for Mapping Projects with Children: [https://www.youtube.com/watch?v=M3AzM_hRy3c](https://www.youtube.com/watch?v=M3AzM_hRy3c)
 
-    ---
-    ###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
-    ---
-    ###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/CONTRIBUTING.md) to learn how!
+---
+###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
+---
+###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/CONTRIBUTING.md) to learn how!
