@@ -1,15 +1,14 @@
-Module 11 | An Introduction to OpenStreetMap Project Management
+# **Module 11 | An Introduction to OpenStreetMap Project Management**
 
 * * *
 
-
-# Overview
+## **Overview**
 
 **Module Title:** Module 11 | Introduction to OpenStreetMap Project Management with the OSM Tasking Manager
 
-**Activity Title:**** **This module for teachers introduces the OpenStreetMap (OSM) tasking manager and how to use it to manage project and control distributed workflow. 
+**Activity Title:** This module for teachers introduces the OpenStreetMap (OSM) tasking manager and how to use it to manage project and control distributed workflow.
 
-**Image****: **[https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.svg](https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.svg)
+**Image:** [https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.svg](https://commons.wikimedia.org/wiki/File:OSM_Logo.svg#/media/File:OSM_Logo.svg)
 
 **Image credit:** Creative Commons BY-SA 2.0 | OpenStreetMap Foundation
 
@@ -17,47 +16,31 @@ Module 11 | An Introduction to OpenStreetMap Project Management
 
 **Educator Prep Time:** Approximately 1 hour
 
-**Module Time: **Approximately 1 hour
+**Module Time:** Approximately 1 hour
 
-**Activity**** X of Y:** 11 of 12
+**Activity X of Y:** 11 of 12
 
-**Students Read | Write | Participate on the Web: **Read, Write, Participate
+**Students Read | Write | Participate on the Web:**  Read, Write, Participate
 
-**Teachers Read | Write | Participate on the Web: **Read, Write, Participate
+**Read | Write | Participate on the Web:**
 
-**Students ****21st Century Skills****:**
+**21st Century Skills:**
 
-* Technical Skills Research
+* Collaboration
 
-* Employment Examples Research
+* Communication
 
-* Articulating Personal Interests
+* Creativity
 
-* Writing Mechanics
+* Problem-solving
 
-**Students Web Literacy Skills****:**
+**Web Literacy Skills:**
 
 * Search
 
 * Navigate
 
-* Synthesize
-
 * Evaluate
-
-* Design
-
-* Code
-
-* Compose
-
-* Revise
-
-* Remix
-
-* Connect
-
-* Protect
 
 * Open Practice
 
@@ -65,19 +48,21 @@ Module 11 | An Introduction to OpenStreetMap Project Management
 
 * Share
 
-**Learning Objectives****:**
+**Learning Objectives:**
 
-* Introduce teachers to the OSM Tasking Manager and why we use it.
+1. Introduce teachers to the OSM Tasking Manager and why we use it.
 
-* Understand the role of the Tasking Manager in coordinating workflow.
+2. Understand the role of the Tasking Manager in coordinating workflow.
 
-* Learn how to use the Tasking Manager to create new projects.
+3. Learn how to use the Tasking Manager to create new projects.
 
-* Learn how to use the Tasking Manager to archive old and completed projects.
+4. Learn how to use the Tasking Manager to archive old and completed projects.
 
-* Learn how to use the Tasking Manager to assess student progress.
+5. Learn how to use the Tasking Manager to assess student progress.
 
-* Addresses **[AP Human Geography: Its Nature and Perspectives | **E](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+**AP Human Geography Connection:**
+
+* [AP Human Geography: Its Nature and Perspectives | E](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
 
 **Audience:**
 
@@ -93,12 +78,12 @@ Module 11 | An Introduction to OpenStreetMap Project Management
 
 * Web Browser (e.g. Mozilla Firefox, Chrome, Safari, Opera)
 
-NOTE: OpenStreetMap does not work well with MS Internet Explorer. 
+NOTE: OpenStreetMap does not work well with MS Internet Explorer.
 
 * * *
 
 
-# Educator Preparation
+## **Educator Preparation**
 
 Toolset: The TeachOSM Tasking Manager
 
@@ -120,35 +105,35 @@ Time required: ~30 minutes
 
 3. In the upper right hand corner, click on ‘login to OpenStreetMap’.
 
-![image alt text](image_0.png)
+![TeachOSM Tasking Manager | Home Page](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/ag-census-web-map.png)
 
 4. Enter your login information to sign in.
 
 5. From the drop-down list, select, ‘Create a new project’
 
-![image alt text](image_1.png)
+![TeachOSM Tasking Manager | Dropdown](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/tasking-manager-dropdown.pngg)
 
 6. Using the ‘+/-’ buttons or the mouse wheel, zoom in to the area of interest, then draw an outline of the area.
 
-![image alt text](image_2.png)
+![TeachOSM Tasking Manager | Task Area](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/tasking-manager-task-area.png)
 
 7. After you’ve drawn the outline, select ‘Square Grid’ to split the area of interest into squares of equal size.
 
-![image alt text](image_3.png)
+![Tasking Manager | Grid Type](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/tasking-manager-grid.png)
 
 8. Size the grid cells appropriately. Bear in mind that dense squares can be split, but small squares cannot be recombined so it is better to keep them large and split individual cells according to need.
 
-![image alt text](image_4.png)
+![Tasking Manager | Grid Size](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/tasking-manager-grid-size.png)
 
 9. Draft concise, but comprehensive instructions to mappers.  The instructions are written in Markdown, a lightweight markup language with plain text formatting syntax.
 
 **NOTE:**  The Markdown syntax allows for styling of the instructions (e.g. title, subtitle, bold, italicize, etc.).  Markdown is a straightforward syntax to learn.  A great resource for Markdown is [Daring Fireball](https://daringfireball.net/projects/markdown/syntax).
 
-![image alt text](image_5.png)
+![Tasking Manager | Instructions](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/tasking-manager-instructions.png)
 
 10. Once you have completed instructions, click ‘Publish’ to make your project visible to students and any other mappers.
 
-![image alt text](image_6.png)
+![Tasking Manager | Task Publishing](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/tasking-manager-publish-task.png)
 
 ## Managing Your Tasks
 
@@ -166,16 +151,16 @@ To archive a task, do the following:
 
 Once the task is archived, it will no longer show up in the default view of active tasks.
 
-![image alt text](image_7.png)
+![Tasking Manager | Task Managing](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/Images/tasking-manager-task-managing.png)
 
 ## For More Information
 
-Detailed mechanics of **[the Tasking Manager are found on the LearnOSM site**.](http://learnosm.org/en/coordination/tasking-manager/)
+Detailed mechanics of **[the Tasking Manager are found on the LearnOSM site](http://learnosm.org/en/coordination/tasking-manager/)**.
 
 * * *
 
 
-# Educator Lecture
+## **Educator Lecture**
 
 Toolset: TeachOSM Tasking Manager
 
@@ -198,7 +183,7 @@ Time Required: ~20 minutes
 * * *
 
 
-# Student Assignment
+## **Student Assignment**
 
 Toolset: TeachOSM and HOTOSM Tasking Managers
 
@@ -222,3 +207,7 @@ Time Required: ~20 minutes
 
 4. Students will either mark the square as complete (if and only if complete!) OR they will unlock the square to continue mapping later.
 
+    ---
+    ###### If there are any questions, comments or feedback, please Email [TeachOSM](mailto:info@teachosm.org) or Tweet [@TeachOSM](https://twitter.com/teachosm).
+    ---
+    ###### To contribute, please visit the [Contribution page](https://github.com/shawnmgoulet/teachosm-for-school/blob/master/CONTRIBUTING.md) to learn how!
