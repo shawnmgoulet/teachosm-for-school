@@ -18,9 +18,9 @@
 
 **Module Time:** designed for 45-60 minutes
 
-**Activity X of Y:**  9 of 12
+**Activity** X of Y: 9 of 12
 
-**Students Read | Write | Participate on the Web:**  Read, Write, Participate
+**Read | Write | Participate on the Web:**
 
 **21st Century Skills:**
 
@@ -100,7 +100,7 @@
   7. Accommodation and Food Services
   8. Other Services
 
-#### **Student Assignment**
+## **Student Assignment**
 
 **Discussion**
 
