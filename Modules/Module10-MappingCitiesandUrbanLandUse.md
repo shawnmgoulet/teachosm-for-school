@@ -1,6 +1,8 @@
-Module 10 | Mapping Cities and Urban Land Use
+# **Module 10 | Mapping Cities and Urban Land Use**
 
-**Overview**
+* * *
+
+## **Overview**
 
 **Module Title:** Module 10 | Mapping Cities and Urban Land Use
 
@@ -20,6 +22,8 @@ Module 10 | Mapping Cities and Urban Land Use
 **Activity X of Y** 10 of 12
 
 **Students Read | Write | Participate on the Web:**  Read, Write, Participate
+
+**Read | Write | Participate on the Web:**
 
 **21st Century Skills:**
 
