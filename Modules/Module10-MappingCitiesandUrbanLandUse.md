@@ -63,7 +63,7 @@
 
 **AP Human Geography Connection:**
 
-* [Cities and Urban Land Use | A - **D](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
+* [Cities and Urban Land Use | A - D](https://apstudent.collegeboard.org/apcourse/ap-human-geography/course-details)
 
 **Audience:**
 
@@ -78,7 +78,6 @@
 * Computer (laptop or desktop)
 
 * Internet connection
-
 
 
 * * *
@@ -124,7 +123,7 @@
 
 Here is a list of resources: [https://www.pinterest.com/pin/191191946661280803/](https://www.pinterest.com/pin/191191946661280803/)
 
-1. First, Have students look at examples of historic urban form:
+1. First, have students look at examples of historic urban form:
 
 Palmanova: [http://osm.org/go/0IM6aUXT--](http://osm.org/go/0IM6aUXT--)
 
@@ -162,7 +161,7 @@ Here are printable images for student use (please credit the original author): [
 
     1. Wherever possible, add/update these features using iD Editor.
 
-2. Examine the arrangement of public facilities, locally, followed by the other chosen municipality. For this step, use [overpass turbo](https://overpass-turbo.eu/) by executing queries such as the query for ‘office=government or building=office‘ and other map features you have identified.  Other features include police and fire facilities, town/city hall, courthouses and city/county infrastructure.
+2. Examine the arrangement of public facilities, locally, followed by the other chosen municipality. For this step, use [overpass turbo](https://overpass-turbo.eu/) by executing queries such as the query for ‘office=government‘ or ‘building=office‘ and other map features you have identified.  Other features include police and fire facilities, town/city hall, courthouses and city/county infrastructure.
 
 3. Where are the major public spaces in your town? Look for parks, playgrounds, public squares and event spaces. Are they mapped?
 
